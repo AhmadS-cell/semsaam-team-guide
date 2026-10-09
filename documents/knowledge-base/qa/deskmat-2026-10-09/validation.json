@@ -1,0 +1,21 @@
+{
+  "checked_at": "2026-10-09T07:21:37.914Z",
+  "desktop": "1440x1000",
+  "mobile": [
+    "390x844",
+    "375x812"
+  ],
+  "text_enlargement": "200%",
+  "checks": [
+    "bundle and mat calculations",
+    "2% conversion sensitivity",
+    "zero conversion validation",
+    "100% impossible target",
+    "reset",
+    "Arabic/English search routing",
+    "mobile drawer navigation",
+    "no viewport overflow",
+    "desktop/mobile screenshots"
+  ],
+  "javascript_errors": []
+}

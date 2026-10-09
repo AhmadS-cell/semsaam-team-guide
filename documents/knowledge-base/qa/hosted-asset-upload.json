@@ -1,0 +1,1106 @@
+{
+  "uploaded_assets": 220,
+  "total_bytes": 104190782,
+  "assets": [
+    {
+      "path": "/app.js",
+      "sha256": "4b45f613c0415c156cb7d220c479601e1e6bc6b2623b55d3ea829c7a9f347949",
+      "size": 6262
+    },
+    {
+      "path": "/data/brand.md",
+      "sha256": "8342ad4e3a05d276633e86316e747da05c0cce4cecc7e56d3b6754c599efcf4b",
+      "size": 6271
+    },
+    {
+      "path": "/data/design-system.md",
+      "sha256": "749f06878f8de3f9f21f068552b18bf58cd954d302585600b4dc7143ea6e5ae8",
+      "size": 5441
+    },
+    {
+      "path": "/data/deskmat-market-2026-10-09.json",
+      "sha256": "664a9554a7753010845d1f118598fb7d4895c12d8de82075f3fae1c3a3fc0e68",
+      "size": 7888
+    },
+    {
+      "path": "/data/deskmat-market-2026-10-09.md",
+      "sha256": "65ebad702ee7f9922a8e3eb51d3c657178bdbb36599969851c59e1efe906aec6",
+      "size": 21368
+    },
+    {
+      "path": "/data/extracted-facts.json",
+      "sha256": "14e6c93530e88f9a7d7ba341bf73d714c5ef3a0b61787e627799a7b8fa2bbc41",
+      "size": 3568
+    },
+    {
+      "path": "/data/gallery.json",
+      "sha256": "bbb00eda7cc1661d57942b01606486e4c46e26464d776cd998204816b3735c9a",
+      "size": 11121
+    },
+    {
+      "path": "/data/homepage-ar-audit.md",
+      "sha256": "af7a4ef32e153cc14760be035be9d4597f7a7f0f1c1e7eba5d1c9766fe5e7661",
+      "size": 12184
+    },
+    {
+      "path": "/data/homepage-ar-followup.md",
+      "sha256": "d738df23595b7d0895c0eb5221bb37ea36528379491470e676f5e2580c43884b",
+      "size": 9557
+    },
+    {
+      "path": "/data/hosting.md",
+      "sha256": "2193cb41357c715f25c7349476f2da3dbe7a4b90927027424adc28aad0f08205",
+      "size": 4744
+    },
+    {
+      "path": "/data/launch-plan-2026-08.json",
+      "sha256": "2741d08d59fddfa723c30f32994217a43077354ad292f9ea995116ab17697688",
+      "size": 3121
+    },
+    {
+      "path": "/data/material-video.json",
+      "sha256": "55f84cbd472684f2185bd77bcd75ca1539b299a4f9367994f4e80ff3000a175e",
+      "size": 3443
+    },
+    {
+      "path": "/data/open-decisions.md",
+      "sha256": "0a1c5491699fc8216e20516b4a83e4a3931e9365fa3849915bce7bc6b3da66c2",
+      "size": 6250
+    },
+    {
+      "path": "/data/operations.md",
+      "sha256": "3de4efbd5f3b79e03e25eba4bac3715e57ab2ffec0a239e31db1c002a9fb0ee5",
+      "size": 7008
+    },
+    {
+      "path": "/data/privacy.md",
+      "sha256": "3d8940f663399cd5b323428624bc1505179f23427f7f38400330c2964a126061",
+      "size": 3194
+    },
+    {
+      "path": "/data/products.md",
+      "sha256": "7efb57faa7c3460572c5581cd2cf8bc9897a4f16c45e3da35d0f73d4bb2d2d2a",
+      "size": 4818
+    },
+    {
+      "path": "/data/recovery-report.md",
+      "sha256": "260bd9405d1d9adfe3f132583efa45df031c66d58b3ef0558474c00131e5803a",
+      "size": 6038
+    },
+    {
+      "path": "/data/salla-preparation.md",
+      "sha256": "050296cb74d86eb657bc34924a8c22ed36341728ab0420789821c34ef395d347",
+      "size": 16320
+    },
+    {
+      "path": "/data/source-manifest.json",
+      "sha256": "5c4d6a1c33be2ac5900a22a45d4d2b43bb7f9c4a2b77692f4d8a8551d146a825",
+      "size": 163694
+    },
+    {
+      "path": "/data/validation.json",
+      "sha256": "330cf904edbdcb8cd729fea70a6f9a2472cfd7a84b923ad30e8d85a2c4ed6593",
+      "size": 1641
+    },
+    {
+      "path": "/data/website.md",
+      "sha256": "6e04998ab26d7c5288fa240b4634aa0eb60132733fd6e2a8cd11caa041f70810",
+      "size": 8027
+    },
+    {
+      "path": "/downloads/addons-brief.pdf",
+      "sha256": "449104e0ccb6194bf05e22b8d6a324d170a224c0d58f818dc0b5bb5be9b459c9",
+      "size": 1584690
+    },
+    {
+      "path": "/downloads/brand.pdf",
+      "sha256": "8498ef18364291c4b4b0a8a625d3e4c5d5e2e17c11d42e13ebfd60a1288e4b51",
+      "size": 1421156
+    },
+    {
+      "path": "/downloads/desk-mat-spec.pdf",
+      "sha256": "4de17eab9c95465fe7e7e657fd5b594c58577dc6e5538f6d2d97597bc279402d",
+      "size": 2779021
+    },
+    {
+      "path": "/downloads/logistics-quote.pdf",
+      "sha256": "f82c293dbf11cf7224d5380a6c10348338da1a04a28a04a91c565c0abe4e05bf",
+      "size": 824832
+    },
+    {
+      "path": "/downloads/supplier-quote-updated-2026-10-09.pdf",
+      "sha256": "449cecb7237d731f30f71982eba34cb3b2cb5a4eb81b5efea4771ae81ecfb904",
+      "size": 19819016
+    },
+    {
+      "path": "/downloads/supplier-quote-viewing-copy.pdf",
+      "sha256": "7d23566abc03a36ca9e24315e7e4bfa5678d8f24eec05b3d3421ee923f735100",
+      "size": 857042
+    },
+    {
+      "path": "/downloads/tracking-audit-checklist-sheet.xlsx",
+      "sha256": "c7d42a550214bfdb476e5e3291b7dfd29f7098ddd1c542558b441f5ffdbe2048",
+      "size": 12672
+    },
+    {
+      "path": "/evidence/brand-page-01.png",
+      "sha256": "a43e5cac613a568f842333c81c3b9e035e2f36bb9f59557ff9d5bb27573339c8",
+      "size": 56125
+    },
+    {
+      "path": "/evidence/brand-page-02.png",
+      "sha256": "78115a8d01930d2a3a1e9511780d06ff4002890bbdef142c6b08a2c0ef29cb97",
+      "size": 81413
+    },
+    {
+      "path": "/evidence/brand-page-03.png",
+      "sha256": "d15cf47e3fd971d632ead9ddf982918c77c38a5576ad1a016a6783707b49beee",
+      "size": 46099
+    },
+    {
+      "path": "/evidence/brand-page-04.png",
+      "sha256": "0ddd3215f91e43a6faedfead975a6052b1bce5b5d518e4086de04d14f9135ab2",
+      "size": 32465
+    },
+    {
+      "path": "/evidence/brand-page-05.png",
+      "sha256": "7b528393022237282381501a08350a5be1a0be4d7bc3a02341a4734f016a2181",
+      "size": 46563
+    },
+    {
+      "path": "/evidence/brand-page-06.png",
+      "sha256": "3f558058a9ce6f0d6ad2f18dd9f485f5b874241f340b27e485400caa3f3767a4",
+      "size": 28564
+    },
+    {
+      "path": "/evidence/brand-page-07.png",
+      "sha256": "0b11a2264be071beb20dd3646368a7f4f5a9102d8e37c7ec5a3404d76e67cb2e",
+      "size": 25356
+    },
+    {
+      "path": "/evidence/brand-page-08.png",
+      "sha256": "f48871a3092f010bdc1b5a2b6f980b022e6dc508322ed47d11f68be681d3faa7",
+      "size": 92138
+    },
+    {
+      "path": "/evidence/brand-page-09.png",
+      "sha256": "5338c1a372781e4adda66d7a62ea539544794dadd67aea120e79a4ad17c5a92f",
+      "size": 240139
+    },
+    {
+      "path": "/evidence/brand-page-10.png",
+      "sha256": "47b8a7500f6817cc84641b68148493b32a72b94436017e8d4acc293e6d01b195",
+      "size": 95635
+    },
+    {
+      "path": "/evidence/brand-page-11.png",
+      "sha256": "53dfb13f99424dcfed2f9dfb42b23014d3c41fdd597fe50064c53c613619f76d",
+      "size": 547509
+    },
+    {
+      "path": "/evidence/brand-page-12.png",
+      "sha256": "56c1bfd62757e7738388143c7bac332105274003a7d0b34d81a9b8ddeed21d25",
+      "size": 379157
+    },
+    {
+      "path": "/evidence/brand-page-13.png",
+      "sha256": "2205da1c8812e1cd4f11f7b8fb0fffc14edcfa470efdde867f91b288aed85fe1",
+      "size": 403859
+    },
+    {
+      "path": "/evidence/export-import-page-1.png",
+      "sha256": "acdf3c7e84d381abdce6caca2a8cd3146f57f1648a2aea5d096eac041dfcc7ed",
+      "size": 1104785
+    },
+    {
+      "path": "/evidence/export-import-page-2.png",
+      "sha256": "17ebe4105f8db3ea5e698e6df5a6e5012e82f1df502370cc12eac0c3e8da1d63",
+      "size": 1062737
+    },
+    {
+      "path": "/evidence/export-import-page-3.png",
+      "sha256": "02c131a3e2c6e0a820af9a52fc47815948c639cb4d3f0a3b0f542df78ddd9f2a",
+      "size": 1139671
+    },
+    {
+      "path": "/evidence/export-import-page-4.png",
+      "sha256": "8e78cc700f8892eb3cd688d91359b99880170e32f15b30ac6014ecf073010641",
+      "size": 1175758
+    },
+    {
+      "path": "/evidence/export-import-page-5.png",
+      "sha256": "5d80f18f0ab1193a274f5906b89da5b2b15df9e4fbb7fe5a9e377073bc7f4458",
+      "size": 1143166
+    },
+    {
+      "path": "/evidence/export-import-page-6.png",
+      "sha256": "13245d0aa92aeb408a7073e3367abe11020d03d69253ee73f58a62d5ff3531da",
+      "size": 1162750
+    },
+    {
+      "path": "/evidence/figma-live-home.png",
+      "sha256": "e697a2be17ab3cd97cbb2e7e89afe57e2ba5e973a9bdf58d05d7abd67fdf0bca",
+      "size": 1116325
+    },
+    {
+      "path": "/evidence/figma-live-product-details.png",
+      "sha256": "40979e8047bf72a9b3d22ea3c84126f2ad8842a5af85947c61ac4203a3a2bffb",
+      "size": 1801085
+    },
+    {
+      "path": "/evidence/figma-live-product-list.png",
+      "sha256": "b44717932bc51cccff7316618718564dd8806668758b69b7b3f336e0142ad7e2",
+      "size": 1382399
+    },
+    {
+      "path": "/evidence/figma-page-metadata.xml",
+      "sha256": "c4c3afa26022bb41512abcd486a0cae37e42ef38a49de44a252afb89f120f7b0",
+      "size": 175637
+    },
+    {
+      "path": "/evidence/figma-reference.json",
+      "sha256": "c40b5abdbfdc0dae1aeceaba4c32243616601d6490d73c64dee5666e960fcee8",
+      "size": 542
+    },
+    {
+      "path": "/evidence/figma-snapshot-manifest.json",
+      "sha256": "9d805abd226fd3a06025eaee800a8b9e9300547f1f5310bb967f050a16eaffe6",
+      "size": 1811
+    },
+    {
+      "path": "/evidence/logistics-page-1.png",
+      "sha256": "6bccee1564265ad896c2f83a0361a51efcc4368605118490a17d6f9650819a16",
+      "size": 353713
+    },
+    {
+      "path": "/evidence/logistics-page-2.png",
+      "sha256": "59096153ae45e1c2b017c0a12e47770008056389b361013837c6f85f190dd742",
+      "size": 334980
+    },
+    {
+      "path": "/evidence/pdf-index.json",
+      "sha256": "c7211800963ae28af7589df0b2c2d2d3aacd3854129b73f3856a5a48849cabef",
+      "size": 1081
+    },
+    {
+      "path": "/evidence/recovered-design-contact.jpg",
+      "sha256": "17f31554a0cd18c466ecab323bdd5bcf551f6dbb4852fc0d953996bd3f0bde87",
+      "size": 70047
+    },
+    {
+      "path": "/evidence/salla-preparation-2026-10-08.json",
+      "sha256": "bb73549edff12f791a34e21919a72f84304af8f7d1bf9b82ef23667bcc60c83d",
+      "size": 7566
+    },
+    {
+      "path": "/fonts/font-sources.json",
+      "sha256": "59840d50739d96152b0cca67c3905bc832c7b7425705a8f7c0a2acffe1207a9d",
+      "size": 381
+    },
+    {
+      "path": "/fonts/noto-arabic.woff2",
+      "sha256": "ce85091f020920b65762b387b194ef59457ea5b25b760f2dcc35240a94bb8669",
+      "size": 165960
+    },
+    {
+      "path": "/fonts/OFL-NotoSansArabic.txt",
+      "sha256": "07fc70bfeb985cc1a87a8587d0a0c80bab11c86c9dc3fd95b6f0cb332f983e96",
+      "size": 4382
+    },
+    {
+      "path": "/fonts/OFL-Rubik.txt",
+      "sha256": "472cbe7c25441df63e9c7864b43eb3c0f4b3df950c66a76224e6cfe1eae843fb",
+      "size": 4384
+    },
+    {
+      "path": "/fonts/rubik-latin.woff2",
+      "sha256": "691cd1d9b4c0cdf31a1dcf04259c86f92c85e69f6622abab7964d81e36890691",
+      "size": 35348
+    },
+    {
+      "path": "/gallery/01-mobile-top.png",
+      "sha256": "ba8880b785337fdf4e94251c6ef961c7f9ef91c05f0d596166acea3476cea01d",
+      "size": 31183
+    },
+    {
+      "path": "/gallery/01-mobile-top.webp",
+      "sha256": "ec78fb2ecc32ab90ec9313eb8979531a930cc5d91c2183cf40f9d2b435c730f0",
+      "size": 6668
+    },
+    {
+      "path": "/gallery/05-desktop-top-reset.png",
+      "sha256": "a24e22450ff7c867656acd98a1ed9c314d8ef39a133040c68ef09ef4fdd2a0d5",
+      "size": 87390
+    },
+    {
+      "path": "/gallery/05-desktop-top-reset.webp",
+      "sha256": "2969d41f2ff5df7473326c6858eccc074e56e5660693c464511c6971a7a64efd",
+      "size": 29202
+    },
+    {
+      "path": "/gallery/brand-01.png",
+      "sha256": "a43e5cac613a568f842333c81c3b9e035e2f36bb9f59557ff9d5bb27573339c8",
+      "size": 56125
+    },
+    {
+      "path": "/gallery/brand-01.webp",
+      "sha256": "d2a218da2306966c115959b7c0491a0f05dd47a6e9e365f033b4380984361e12",
+      "size": 12590
+    },
+    {
+      "path": "/gallery/brand-03.png",
+      "sha256": "d15cf47e3fd971d632ead9ddf982918c77c38a5576ad1a016a6783707b49beee",
+      "size": 46099
+    },
+    {
+      "path": "/gallery/brand-03.webp",
+      "sha256": "f2e0e585d9482edb3c0355ac321bc6392fe8c8f0aeff53360e5d8614fb2fde17",
+      "size": 15630
+    },
+    {
+      "path": "/gallery/brand-04.png",
+      "sha256": "0ddd3215f91e43a6faedfead975a6052b1bce5b5d518e4086de04d14f9135ab2",
+      "size": 32465
+    },
+    {
+      "path": "/gallery/brand-04.webp",
+      "sha256": "72b3786375fa9d7e199b027514d0a66bcb3af2cdd7aa08f92ce6f902b239a555",
+      "size": 24680
+    },
+    {
+      "path": "/gallery/brand-05.png",
+      "sha256": "7b528393022237282381501a08350a5be1a0be4d7bc3a02341a4734f016a2181",
+      "size": 46563
+    },
+    {
+      "path": "/gallery/brand-05.webp",
+      "sha256": "1997cccd755a3cba9ec2ff4de442a1e866d5632d40b8bf4ae8078ef6e05ff997",
+      "size": 29582
+    },
+    {
+      "path": "/gallery/brand-06.png",
+      "sha256": "3f558058a9ce6f0d6ad2f18dd9f485f5b874241f340b27e485400caa3f3767a4",
+      "size": 28564
+    },
+    {
+      "path": "/gallery/brand-06.webp",
+      "sha256": "74568bd3b5c506d151048c947085efdc9b5db890c48fce56025c957335f312c8",
+      "size": 15056
+    },
+    {
+      "path": "/gallery/brand-07.png",
+      "sha256": "0b11a2264be071beb20dd3646368a7f4f5a9102d8e37c7ec5a3404d76e67cb2e",
+      "size": 25356
+    },
+    {
+      "path": "/gallery/brand-07.webp",
+      "sha256": "1ad024d2b36f0588934732e790eec7bb089b2310399ecf3e5080096f7fd38cf1",
+      "size": 16096
+    },
+    {
+      "path": "/gallery/brand-08.png",
+      "sha256": "f48871a3092f010bdc1b5a2b6f980b022e6dc508322ed47d11f68be681d3faa7",
+      "size": 92138
+    },
+    {
+      "path": "/gallery/brand-08.webp",
+      "sha256": "51067647467206c7179b3f710b65e3352aa807b79beeaff643715cd935653577",
+      "size": 57104
+    },
+    {
+      "path": "/gallery/brand-09.png",
+      "sha256": "5338c1a372781e4adda66d7a62ea539544794dadd67aea120e79a4ad17c5a92f",
+      "size": 240139
+    },
+    {
+      "path": "/gallery/brand-09.webp",
+      "sha256": "2365afdd201a65dfbac15eed4b072683152ab3cf0bcffcdf74562a3213e60f6f",
+      "size": 20012
+    },
+    {
+      "path": "/gallery/brand-11.png",
+      "sha256": "53dfb13f99424dcfed2f9dfb42b23014d3c41fdd597fe50064c53c613619f76d",
+      "size": 547509
+    },
+    {
+      "path": "/gallery/brand-11.webp",
+      "sha256": "79cc2f136b99dd325eb68cad478f75361758855df90463d9241fcb734673bcf0",
+      "size": 54164
+    },
+    {
+      "path": "/gallery/brand-13.png",
+      "sha256": "2205da1c8812e1cd4f11f7b8fb0fffc14edcfa470efdde867f91b288aed85fe1",
+      "size": 403859
+    },
+    {
+      "path": "/gallery/brand-13.webp",
+      "sha256": "f4e5161dcc7e0f6014975b4ce840a2aa55fb3fc01d5723a12b62f4b204f38fc4",
+      "size": 37386
+    },
+    {
+      "path": "/gallery/figma-detail.png",
+      "sha256": "40979e8047bf72a9b3d22ea3c84126f2ad8842a5af85947c61ac4203a3a2bffb",
+      "size": 1801085
+    },
+    {
+      "path": "/gallery/figma-detail.webp",
+      "sha256": "650d99b8fd57094e8e35224274cab172f20aac0e728e83c26e8327620c0b62d6",
+      "size": 21734
+    },
+    {
+      "path": "/gallery/figma-hero-visual.jpg",
+      "sha256": "0a44c1b0bbe758cb61542a70e0f47597794a968c4f910a5ff13a3b9ea0c71867",
+      "size": 130517
+    },
+    {
+      "path": "/gallery/figma-hero-visual.webp",
+      "sha256": "59f07058b76ebcc0d5d37b8f9a16ab913a96cc73fa7cda0709378c32924336a3",
+      "size": 53028
+    },
+    {
+      "path": "/gallery/figma-home.png",
+      "sha256": "e697a2be17ab3cd97cbb2e7e89afe57e2ba5e973a9bdf58d05d7abd67fdf0bca",
+      "size": 1116325
+    },
+    {
+      "path": "/gallery/figma-home.webp",
+      "sha256": "329892fd9be1a8a143a9e911672a1aa35f3bf2eaa9066f5863ff70a99ae12ff2",
+      "size": 24476
+    },
+    {
+      "path": "/gallery/figma-laptop-promo.jpg",
+      "sha256": "cb4fac2f45174af65619caa37385256f39903b67f893564fe28b307f9edab5fa",
+      "size": 123423
+    },
+    {
+      "path": "/gallery/figma-laptop-promo.webp",
+      "sha256": "1b1cf75ba1b2b0cfad2b81be138c8aff11ca8305880b3b22e11cd4eb36577e3a",
+      "size": 25838
+    },
+    {
+      "path": "/gallery/figma-list.png",
+      "sha256": "b44717932bc51cccff7316618718564dd8806668758b69b7b3f336e0142ad7e2",
+      "size": 1382399
+    },
+    {
+      "path": "/gallery/figma-list.webp",
+      "sha256": "bca1fcc7db7ceafbc90514a4d0e7a5412ff9e9d9942dc75fb718e62bae811834",
+      "size": 24230
+    },
+    {
+      "path": "/gallery/figma-preorder-bg.jpg",
+      "sha256": "c34a09cdf5f18cb816b102296420444127c40b12a5d059a605101602b383d719",
+      "size": 140143
+    },
+    {
+      "path": "/gallery/figma-preorder-bg.webp",
+      "sha256": "2ddd707fe684c34c9c42cde7f4bc38d85ee9a67321ad464811b384baa0cc8fe9",
+      "size": 31872
+    },
+    {
+      "path": "/gallery/figma-thickness-promo.jpg",
+      "sha256": "07656c97fb20b5c6816b67acbeb5dc26b7a54204e87ffa43dcda007930e16adf",
+      "size": 123868
+    },
+    {
+      "path": "/gallery/figma-thickness-promo.webp",
+      "sha256": "a0f149a2df7749510ebd444acca8a79a509c002ae82bf0f89d7208faf0d634d9",
+      "size": 28342
+    },
+    {
+      "path": "/gallery/hero-comfort-rest-live.png",
+      "sha256": "f81dd93b9c4e161646c886e9f8c6caa19aeaf4283e96f83573c8f5d907821c9e",
+      "size": 2605355
+    },
+    {
+      "path": "/gallery/hero-comfort-rest-live.webp",
+      "sha256": "de7bd2a63cca16ac85409a59368d193f686ee9b4ff19f31e9b3529a749d4000c",
+      "size": 81570
+    },
+    {
+      "path": "/gallery/home-ar-after-desktop.png",
+      "sha256": "a49377a140b97f07d6ae0631f4bf6883b821fb24ad333afe0cabc6b7465159ca",
+      "size": 105128
+    },
+    {
+      "path": "/gallery/home-ar-after-desktop.webp",
+      "sha256": "c5e5495287f658c7ccf310fa36affcf5399b6f098696f2143a289c8796f415d6",
+      "size": 33206
+    },
+    {
+      "path": "/gallery/home-ar-after-mobile.png",
+      "sha256": "04295a3385ba767898069708ba32f9ef0743e168cc94c4c69cd74d161b42046c",
+      "size": 40547
+    },
+    {
+      "path": "/gallery/home-ar-after-mobile.webp",
+      "sha256": "3eec7702624c517dd187fb85dc2b40feb1d152843d01bd0ecf14e830247c6d94",
+      "size": 10688
+    },
+    {
+      "path": "/gallery/home-ar-before-desktop.png",
+      "sha256": "ad762816552bbd5775d723c758f45bb6b65d96072d49cbf96c18562c65610578",
+      "size": 91347
+    },
+    {
+      "path": "/gallery/home-ar-before-desktop.webp",
+      "sha256": "8c5017b54685b8ec75f979066946db3edfc346d65e81dae066ad745a608126ec",
+      "size": 31130
+    },
+    {
+      "path": "/gallery/home-ar-before-mobile.png",
+      "sha256": "d3a47581760c875b5c5254920e85a0524347f50f3ab7242ddf47af3c459532fd",
+      "size": 34606
+    },
+    {
+      "path": "/gallery/home-ar-before-mobile.webp",
+      "sha256": "14ea7e5e7fb9ab47f3d87858389ae1b53ee323d6805d10395266341af6f44b06",
+      "size": 8214
+    },
+    {
+      "path": "/gallery/product-bundle-setup.jpg",
+      "sha256": "1257f4f4ed6a036269d6a8a2156c7af7c5b05e6f06488e8d8ac5b7df653b3ae3",
+      "size": 206458
+    },
+    {
+      "path": "/gallery/product-bundle-setup.webp",
+      "sha256": "41e5f43d41273366d3aa3c83693cb8c4e1a411feaf806e3a07965a91b834a3e5",
+      "size": 14270
+    },
+    {
+      "path": "/gallery/product-care-kit.jpg",
+      "sha256": "3d4f1b495809a82de8ed1f91a7abd556f93c4396187a7de8edb002be931669fd",
+      "size": 238489
+    },
+    {
+      "path": "/gallery/product-care-kit.webp",
+      "sha256": "b7c5c8ad5be70b5bad8458ee26433de708aef8147fda12c3681e32078244e43f",
+      "size": 13362
+    },
+    {
+      "path": "/gallery/product-comfort-rest.jpg",
+      "sha256": "22152f7ba951409b98831ee039d0b758ff5c5b6613ce81f4ff54961a02c41e84",
+      "size": 237329
+    },
+    {
+      "path": "/gallery/product-comfort-rest.webp",
+      "sha256": "a96bbd9b63d2a36cb6ec4a5b0ebcfa0a938bcb8e1b8b3124fc5df2be7a8ef786",
+      "size": 17102
+    },
+    {
+      "path": "/gallery/product-desk-mat-standard.jpg",
+      "sha256": "a57a722c5aa8ca116b69e03708fc842cf58094c373aac925e813aa1423d9e3b8",
+      "size": 266378
+    },
+    {
+      "path": "/gallery/product-desk-mat-standard.webp",
+      "sha256": "25453528b7f2a3ecc532748da1ff0d741d08235a7201c5661fad15c7970345b0",
+      "size": 28294
+    },
+    {
+      "path": "/gallery/product-pro-control.jpg",
+      "sha256": "24331119ecf0c0f4b87129be1d2fbf9798b99ee40129da3fbf8b82406112aae9",
+      "size": 344807
+    },
+    {
+      "path": "/gallery/product-pro-control.webp",
+      "sha256": "eef3112dfe194f7fd2ae39959cfbb9c4fb119eece16f3191531dbf45b0df747e",
+      "size": 45330
+    },
+    {
+      "path": "/index.html",
+      "sha256": "a62856dcf3d705ebf66901bb80f5d1a1c5ca71647757fe0638d5fca35e1950f3",
+      "size": 85570
+    },
+    {
+      "path": "/pricing.css",
+      "sha256": "ebf65adb05e0d1ae1f5f76843cd442ca5908706cd419d0bdc19cd58120b1941c",
+      "size": 4979
+    },
+    {
+      "path": "/pricing.js",
+      "sha256": "07b1fc232b8b819ba672269c8e002d7045e88c4d846cec7d37042919e03cf768",
+      "size": 3734
+    },
+    {
+      "path": "/robots.txt",
+      "sha256": "1cbdbc6504be7abe1267d01d7f565bfcfe5851ba3f6a3754d1d61c8f8a2c6aa3",
+      "size": 25
+    },
+    {
+      "path": "/styles.css",
+      "sha256": "c6c97becfb2c9745c9c01538d71069154f86c28cf7cb2b47f0b970559d66d891",
+      "size": 20834
+    },
+    {
+      "path": "/website/ar/favicon-options.html",
+      "sha256": "d0f429f88e577c9ce982692758af302c84fb4facd395f0b279ce15e4e53de86c",
+      "size": 4173
+    },
+    {
+      "path": "/website/ar/index.html",
+      "sha256": "3d74240ad965e594fd5c6c35bf8dc57a0c96d2e88b2bb95c2b0b9990afdd4300",
+      "size": 17020
+    },
+    {
+      "path": "/website/ar/product-details.html",
+      "sha256": "689a37502ef9eaed9dda78238e6dc0749517a28576fe6ad42d37fa5e74d76c83",
+      "size": 8592
+    },
+    {
+      "path": "/website/ar/product-list.html",
+      "sha256": "643f2398f04fd5d461b95dd7e1cfb6d37e71e40c18a1689af3036dfca0e3dbe5",
+      "size": 14903
+    },
+    {
+      "path": "/website/assets/css/home-ar.css",
+      "sha256": "f57628f31a0975b39705edd176898408d081b60673aea5b5ba5972d25435da43",
+      "size": 17695
+    },
+    {
+      "path": "/website/assets/css/product-ar.css",
+      "sha256": "2cb06406fd1fb19b0143c76d721646eaf9882ab705de5a0adba9700593990778",
+      "size": 1456
+    },
+    {
+      "path": "/website/assets/css/styles.css",
+      "sha256": "453857870a1b9f18353a25d6d23eeacc3dd4f11c65734c1dd32abdd3787572f1",
+      "size": 82128
+    },
+    {
+      "path": "/website/assets/fonts/font-sources.json",
+      "sha256": "4f778fe44615f3bfdb8fdb9a7c11a7d1a46a19787500bb74d6f6b6f69c7a4dde",
+      "size": 678
+    },
+    {
+      "path": "/website/assets/fonts/OFL-Rubik.txt",
+      "sha256": "472cbe7c25441df63e9c7864b43eb3c0f4b3df950c66a76224e6cfe1eae843fb",
+      "size": 4384
+    },
+    {
+      "path": "/website/assets/fonts/rubik-arabic.woff2",
+      "sha256": "f5052e4870bf211fc22df5b85e791a292a77b9baef8cef1dc5a8e62a783ea1e0",
+      "size": 32468
+    },
+    {
+      "path": "/website/assets/fonts/rubik-latin.woff2",
+      "sha256": "691cd1d9b4c0cdf31a1dcf04259c86f92c85e69f6622abab7964d81e36890691",
+      "size": 35348
+    },
+    {
+      "path": "/website/assets/icons/options/favicon-a.svg",
+      "sha256": "3fbc2d017b87b6be1fa35e9a347100e595435a5c9d473a80209ec4885002722d",
+      "size": 1528
+    },
+    {
+      "path": "/website/assets/icons/options/favicon-b.svg",
+      "sha256": "a26d7db541e7f7b2869f33f2bbcb711a61dd438be9eb7ebb060973f413cc8afa",
+      "size": 1644
+    },
+    {
+      "path": "/website/assets/icons/options/source.json",
+      "sha256": "080c136f4e7f0871d7503555b1e02199f0b4b006580ac683e2a7bb291b34ca8d",
+      "size": 500
+    },
+    {
+      "path": "/website/assets/icons/semsaam-header-logo.png",
+      "sha256": "eecc13454bb11b79fc15c8e29bf259ce081b3b249ea15ce05bafdbfe8e718a2a",
+      "size": 8709
+    },
+    {
+      "path": "/website/assets/icons/semsaam-logo.svg",
+      "sha256": "364a4167e532a083290ce9148b352d76ca152251b4459b28c02304187e026229",
+      "size": 878
+    },
+    {
+      "path": "/website/assets/icons/semsaam-sword.png",
+      "sha256": "9d27e552938c516e266e63ffe9563c45098ada733179277847b07b382bcd1c04",
+      "size": 2108
+    },
+    {
+      "path": "/website/assets/icons/semsaam-wordmark.png",
+      "sha256": "3e9bceb3b29ae7ec91436c10e502a40129815eee737024889bd70c93aa76a561",
+      "size": 1083
+    },
+    {
+      "path": "/website/assets/images/category-bags.jpg",
+      "sha256": "edbf9af22ba13497b329f768f609e61290f1176d7a3d2506546033bb5f116037",
+      "size": 46159
+    },
+    {
+      "path": "/website/assets/images/category-headphones.jpg",
+      "sha256": "7278130a814a3abcddda38c593d18cb7080081db871eea198a6f124cfa68efad",
+      "size": 41621
+    },
+    {
+      "path": "/website/assets/images/category-keyboards.jpg",
+      "sha256": "d995e8b1ef4bb799c646adf5f84e4e5072a3a39d46e22033779aef0a04b8efda",
+      "size": 45901
+    },
+    {
+      "path": "/website/assets/images/category-playmates.jpg",
+      "sha256": "185de35d6bf446fb0a92996b96779f2a124bd43f0269772d100c02bfe1175293",
+      "size": 47897
+    },
+    {
+      "path": "/website/assets/images/category-video-games.jpg",
+      "sha256": "41e8b2e5e814f11153d8a47170e3729adb342119acd710ca90846929f9b518b3",
+      "size": 56256
+    },
+    {
+      "path": "/website/assets/images/detail-main-gojo.jpg",
+      "sha256": "a3fc6057199f859cf146d4778479cf052d26787dbb628595fa308acb2966287b",
+      "size": 174629
+    },
+    {
+      "path": "/website/assets/images/detail-thumb-02.jpg",
+      "sha256": "bd0266872b209549704307d4d83691d9f842c57715d096239786f6f5a7b5a216",
+      "size": 133664
+    },
+    {
+      "path": "/website/assets/images/detail-thumb-03.jpg",
+      "sha256": "794ad5a8982a2ca3fc06caf0363803d6866b7a9265cb98b0c62c403884a7b849",
+      "size": 121212
+    },
+    {
+      "path": "/website/assets/images/detail-thumb-04.jpg",
+      "sha256": "844f182ea381a28c6a0cd176f7d6cb93c836c7693b1d1a39b19ee125e343217b",
+      "size": 132681
+    },
+    {
+      "path": "/website/assets/images/detail-thumb-05.jpg",
+      "sha256": "a24ee0ebf77a04292b685dd52fdc0921f9ed4dae475ec6da931153c38c86d7b4",
+      "size": 121783
+    },
+    {
+      "path": "/website/assets/images/detail-thumb-06.jpg",
+      "sha256": "a92253ef4bda507996a7573a7f766733ba25bced74421d0319f63d8a720d6de5",
+      "size": 121862
+    },
+    {
+      "path": "/website/assets/images/figma-categories-strip.jpg",
+      "sha256": "83428823ff47dfe7d22ffaa0471b06cfa624c2826566d04d8a37f4d465f5b03d",
+      "size": 100324
+    },
+    {
+      "path": "/website/assets/images/figma-hero-mini.jpg",
+      "sha256": "198ae1c8342c397dd18c2f2de87977b560af0e7fb0f75ac289e7073a222b039d",
+      "size": 26450
+    },
+    {
+      "path": "/website/assets/images/figma-hero-visual.jpg",
+      "sha256": "0a44c1b0bbe758cb61542a70e0f47597794a968c4f910a5ff13a3b9ea0c71867",
+      "size": 130517
+    },
+    {
+      "path": "/website/assets/images/figma-laptop-promo.jpg",
+      "sha256": "cb4fac2f45174af65619caa37385256f39903b67f893564fe28b307f9edab5fa",
+      "size": 123423
+    },
+    {
+      "path": "/website/assets/images/figma-new-collection-bg.jpg",
+      "sha256": "9cf01097e120778679dfd9efcc4c8ed6ef6a300ffdb4c2fa8cef5e4de94ac847",
+      "size": 114896
+    },
+    {
+      "path": "/website/assets/images/figma-preorder-bg.jpg",
+      "sha256": "c34a09cdf5f18cb816b102296420444127c40b12a5d059a605101602b383d719",
+      "size": 140143
+    },
+    {
+      "path": "/website/assets/images/figma-product-01.jpg",
+      "sha256": "248814fb815643cb68d2de897c909c9a445c88c0f0431a61ebd0a970cd0c2239",
+      "size": 54736
+    },
+    {
+      "path": "/website/assets/images/figma-product-02.jpg",
+      "sha256": "38d36a9ee7980e2b21e3c7d52feba4e9263702b87a49f6ae46b5fd3025d400d2",
+      "size": 50951
+    },
+    {
+      "path": "/website/assets/images/figma-product-03.jpg",
+      "sha256": "9b46aa80bc34b2edf47d63dc9dee802d8b458e5e5cc321717f4c4e4b4114d0c3",
+      "size": 54235
+    },
+    {
+      "path": "/website/assets/images/figma-sale-bg.jpg",
+      "sha256": "07f36228f6bec86189d3c71eb9f1a63b8a1c792fb8e3bbaa910ea35dd1e2faa7",
+      "size": 95734
+    },
+    {
+      "path": "/website/assets/images/figma-thickness-promo.jpg",
+      "sha256": "07656c97fb20b5c6816b67acbeb5dc26b7a54204e87ffa43dcda007930e16adf",
+      "size": 123868
+    },
+    {
+      "path": "/website/assets/images/figma-top-collection-bg.jpg",
+      "sha256": "b3bd0eee8b711585f7ff00c7e6ecdac5f6f7b2d355c04060937f98b19498cf35",
+      "size": 173575
+    },
+    {
+      "path": "/website/assets/images/hero-care-kit-detail.png",
+      "sha256": "77a44c1ac18eeb6e9d993021b029da9f8e105c906f7d9da346aadfdddb3f0f9a",
+      "size": 2403480
+    },
+    {
+      "path": "/website/assets/images/hero-care-kit-live.png",
+      "sha256": "6fa24880a4d67be6064e524ecd94d9d2a19152a8909f9962152fb1c375654624",
+      "size": 2423255
+    },
+    {
+      "path": "/website/assets/images/hero-comfort-rest-detail.png",
+      "sha256": "abdc3eb1fd1de8f7be374c9c1a4c66c113ba6490a31d7b54e609fda3c74bf71d",
+      "size": 2516397
+    },
+    {
+      "path": "/website/assets/images/hero-comfort-rest-live.png",
+      "sha256": "f81dd93b9c4e161646c886e9f8c6caa19aeaf4283e96f83573c8f5d907821c9e",
+      "size": 2605355
+    },
+    {
+      "path": "/website/assets/images/hero-pro-control-live.png",
+      "sha256": "84df25b3cc97986ef6ebbec66d4b50283926a3f504fc29de977d9de6a7902cc1",
+      "size": 2475604
+    },
+    {
+      "path": "/website/assets/images/hero-setup.jpg",
+      "sha256": "93c53842b35f5dd6d359e00d59dc923600eff2cdbbacdd73a0f659ecb54647f3",
+      "size": 28791
+    },
+    {
+      "path": "/website/assets/images/home-addon-detail.png",
+      "sha256": "de12e2932c9d2d88922373fc4a0e3dd0a76fca194fde0da9649aa475be392042",
+      "size": 2596107
+    },
+    {
+      "path": "/website/assets/images/home-hero-product-detail.png",
+      "sha256": "62bc86032cbef258721eddb3e266c9f4bd3bd7f7b250e56779baf2f01bbbd469",
+      "size": 2677293
+    },
+    {
+      "path": "/website/assets/images/home-material-closeup.png",
+      "sha256": "1b3b1bcc0041845b2058f99096f951dfe592414297143b99b10de72ef02e9495",
+      "size": 2423915
+    },
+    {
+      "path": "/website/assets/images/home-product-01.jpg",
+      "sha256": "0a26e14e49bf11fe98f1e4213664e3acfc62aede08158531cd47924a1c6c28dc",
+      "size": 10351
+    },
+    {
+      "path": "/website/assets/images/home-product-02.jpg",
+      "sha256": "358f4bcbfbd2199f112caa9272a65a15a82e23323f0daabc182a53c442508521",
+      "size": 9552
+    },
+    {
+      "path": "/website/assets/images/home-product-03.jpg",
+      "sha256": "c7a700cba77792b0de66d9a5a4b6000513570f188879af90478f2f9b442686be",
+      "size": 10158
+    },
+    {
+      "path": "/website/assets/images/material-proof-callouts.png",
+      "sha256": "32550e3c6339b1e945411482ea67b6e9655c60b7ae2e6a91a58e2ec1b0f6c327",
+      "size": 2336576
+    },
+    {
+      "path": "/website/assets/images/new-collection.jpg",
+      "sha256": "47321e4310e7927c95bf12661d895c9322584ccb8f9823873b30a018bb8aa114",
+      "size": 112181
+    },
+    {
+      "path": "/website/assets/images/preorder-banner.jpg",
+      "sha256": "9a1d15f9437436c2a5ba632013ab4b53ffd5018bf86d1e1750d6496c0e288cee",
+      "size": 143373
+    },
+    {
+      "path": "/website/assets/images/preorder-design-proof.png",
+      "sha256": "513a106424e33233c498ee5b804b3d9877063663ccb5a188771fd657513b6d4b",
+      "size": 2345409
+    },
+    {
+      "path": "/website/assets/images/preorder-material-detail.png",
+      "sha256": "7cfa64cd477255e59ee0b4a3b71f65875281e9b8e99eec3aac51ab468d9cace6",
+      "size": 2225097
+    },
+    {
+      "path": "/website/assets/images/preorder-print-quality.png",
+      "sha256": "0e59946dd09aaf9420e01d32963c3f406b8990c3a9a4ca1861e9c98ab5c3c098",
+      "size": 2910141
+    },
+    {
+      "path": "/website/assets/images/product-bundle-setup.jpg",
+      "sha256": "1257f4f4ed6a036269d6a8a2156c7af7c5b05e6f06488e8d8ac5b7df653b3ae3",
+      "size": 206458
+    },
+    {
+      "path": "/website/assets/images/product-care-kit.jpg",
+      "sha256": "3d4f1b495809a82de8ed1f91a7abd556f93c4396187a7de8edb002be931669fd",
+      "size": 238489
+    },
+    {
+      "path": "/website/assets/images/product-comfort-rest.jpg",
+      "sha256": "22152f7ba951409b98831ee039d0b758ff5c5b6613ce81f4ff54961a02c41e84",
+      "size": 237329
+    },
+    {
+      "path": "/website/assets/images/product-desk-mat-standard.jpg",
+      "sha256": "a57a722c5aa8ca116b69e03708fc842cf58094c373aac925e813aa1423d9e3b8",
+      "size": 266378
+    },
+    {
+      "path": "/website/assets/images/product-pro-control.jpg",
+      "sha256": "24331119ecf0c0f4b87129be1d2fbf9798b99ee40129da3fbf8b82406112aae9",
+      "size": 344807
+    },
+    {
+      "path": "/website/assets/images/product-setup-after.png",
+      "sha256": "43a184edd31dbd21bbf9979fc6c0fb02af9dcd161bdafb32fb75c0e254e9c3b4",
+      "size": 2538274
+    },
+    {
+      "path": "/website/assets/images/product-setup-before.png",
+      "sha256": "b5a8a69a8c2762e692bb25b44ad6ddfab4016d5cea51325c86f1f7b8da9fd20c",
+      "size": 2328550
+    },
+    {
+      "path": "/website/assets/images/promo-laptop.jpg",
+      "sha256": "f6edbca46a8de81972cb7c16b6155d6c0349a62801ffe92146db97f2c8eea1b6",
+      "size": 111764
+    },
+    {
+      "path": "/website/assets/images/promo-thickness.jpg",
+      "sha256": "de7a22fbe60e9902b275ba2983b4fc1fd1a1bdbde9f27355076acc276ba2ba46",
+      "size": 114084
+    },
+    {
+      "path": "/website/assets/images/rec-product-01.jpg",
+      "sha256": "2ef45c8d0f8c42fb7f49880e94e7368542620fa8fd85ec657baf25e3becdf6df",
+      "size": 46207
+    },
+    {
+      "path": "/website/assets/images/rec-product-02.jpg",
+      "sha256": "da35f4b43ca10c014ada9bd731620aa29b3daed3433e5f0b8de3dd33c84524a0",
+      "size": 29512
+    },
+    {
+      "path": "/website/assets/images/rec-product-03.jpg",
+      "sha256": "d273f0218335084db145c23318380fc8a645b609bf265645a870584d8265ae25",
+      "size": 44855
+    },
+    {
+      "path": "/website/assets/images/sale-banner.jpg",
+      "sha256": "1139cfd1b1d356b8796881c6a3233ce45b964a7c027117fdadc0c7c778f279bf",
+      "size": 94375
+    },
+    {
+      "path": "/website/assets/images/top-collection.jpg",
+      "sha256": "de757718473df46eb4cae532e177831b9e6ebda2d71cb08a483974574554da3c",
+      "size": 184218
+    },
+    {
+      "path": "/website/assets/js/home-ar.js",
+      "sha256": "c61077243ef5d58c5792eb4a1d1d6bd915003ef09084cf05a8793e7af054f9c0",
+      "size": 7708
+    },
+    {
+      "path": "/website/assets/js/main.js",
+      "sha256": "bb9611d7d5fb7f75c1680d98e42f3d4424f112719fd354ba3fe97e0ad704c1a4",
+      "size": 19150
+    },
+    {
+      "path": "/website/assets/js/product-ar.js",
+      "sha256": "8493702169bf0b2435fd21042aded3aff67aedead8c216f7cf3cfd3f71981e55",
+      "size": 551
+    },
+    {
+      "path": "/website/assets/patterns/sem-sword-grid.svg",
+      "sha256": "b232e27dda6b5d8aacae949f2c50644ec4be4586de96d07d366d21886c292bc0",
+      "size": 2574
+    },
+    {
+      "path": "/website/assets/patterns/sword-lines.svg",
+      "sha256": "03891327bb8c5f0cf91c805ba81afc4b56847544392ae3fde7fb862e9cac6271",
+      "size": 553
+    },
+    {
+      "path": "/website/assets/tracking-checklist-banner-ar.html",
+      "sha256": "893430e8b68d0e930938d08ca752ce81ea2fd6c0d8162a609f88a69081adeac5",
+      "size": 4321
+    },
+    {
+      "path": "/website/assets/tracking-checklist-banner.html",
+      "sha256": "12e3270923fba1c535487c9fc61d52921922341e61b243b4ad570da126269385",
+      "size": 3763
+    },
+    {
+      "path": "/website/assets/tracking-checklist-photo-banner-ar.png",
+      "sha256": "bf291d02f2d713a3de072fd86fc1ee29a4349d5f83439b0d1799402315af256e",
+      "size": 1222377
+    },
+    {
+      "path": "/website/assets/tracking-checklist-photo-banner.jpg",
+      "sha256": "ee52bc045c9ff78abba4b4c77bafadde9417059b540ea20ebbc208fa9e957cc1",
+      "size": 173607
+    },
+    {
+      "path": "/website/assets/tracking-checklist-photo-base.png",
+      "sha256": "ae0f7fcac9b29225d09f52c06dc065a354e96ccc48f6da2c36e4bb7f8a83ff9c",
+      "size": 1510313
+    },
+    {
+      "path": "/website/assets/videos/hero-care-kit-loop.webm",
+      "sha256": "52aaf3ccd66e766a904247b324d6b5f2c026e44f27fd178df4b243ebecbbc2b3",
+      "size": 1427708
+    },
+    {
+      "path": "/website/assets/videos/hero-comfort-rest-loop.webm",
+      "sha256": "d68751037f8d350ff0a70ffeecf078832f8e4eb0a435c93909199ed6f584110a",
+      "size": 1785916
+    },
+    {
+      "path": "/website/assets/videos/hero-desk-mat-loop.webm",
+      "sha256": "1253db8801f078d3f030941b3ad27bc6789d902a13de1a6e7cfc2619bbc9e064",
+      "size": 1541527
+    },
+    {
+      "path": "/website/assets/videos/hero-pro-control-loop.webm",
+      "sha256": "cf9823724c6123c1a5ff6c3a152d9c438047fda50a0e2250fce93a0a4e965da1",
+      "size": 1732540
+    },
+    {
+      "path": "/website/assets/videos/material-beauty-draft.mp4",
+      "sha256": "ce86875bb1c2b4c59472a6b69a5101e2325fafd602ae19d43373ace7febcb497",
+      "size": 871582
+    },
+    {
+      "path": "/website/assets/videos/material-beauty-poster.jpg",
+      "sha256": "062afaabfcc3e10033045f670ce537fc38a6bd23a511e1b986d1093b2b905040",
+      "size": 128077
+    },
+    {
+      "path": "/website/assets/videos/material-beauty-seedance.mp4",
+      "sha256": "d445c409bff15b2b6a30373c01a19b63377142346d42d5b0fee8cda2064a370b",
+      "size": 702527
+    },
+    {
+      "path": "/website/index.html",
+      "sha256": "9c1aec9783a0f32c7e81aade8de7dcb500b88e2d4bf57abbf16b9c3d6c692b58",
+      "size": 34029
+    },
+    {
+      "path": "/website/product-details.html",
+      "sha256": "6fa1b0578352ba36ab373f3fea47379f4510cc8f43d7ed3fad56aff530a5d70e",
+      "size": 17097
+    },
+    {
+      "path": "/website/product-list.html",
+      "sha256": "4be29ff899fee08ee8ae7b10730498f16bf448b6cfcde13858ba95aa667762e7",
+      "size": 15655
+    },
+    {
+      "path": "/website/salla-home-mapping.json",
+      "sha256": "5a3c1afd84a9306cf9dc35d82a0be76d0e12872a761aa46378d969c3ca368dce",
+      "size": 1551
+    }
+  ]
+}

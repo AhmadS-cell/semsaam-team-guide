@@ -1,0 +1,263 @@
+[
+  {
+    "id": "figma-home",
+    "title": "الرئيسية · Figma",
+    "group": "design",
+    "thumbnail": "gallery/figma-home.webp",
+    "image": "gallery/figma-home.png",
+    "note": "لقطة حديثة من التصميم الأصلي، 8 أكتوبر 2026.",
+    "source": "Figma · home_page · 33489:911"
+  },
+  {
+    "id": "figma-list",
+    "title": "قائمة المنتجات · Figma",
+    "group": "design",
+    "thumbnail": "gallery/figma-list.webp",
+    "image": "gallery/figma-list.png",
+    "note": "الفلاتر والبطاقات والتصنيفات في المرجع الأصلي.",
+    "source": "Figma · Product List · 33489:1241"
+  },
+  {
+    "id": "figma-detail",
+    "title": "تفاصيل المنتج · Figma",
+    "group": "design",
+    "thumbnail": "gallery/figma-detail.webp",
+    "image": "gallery/figma-detail.png",
+    "note": "معرض المنتج والمقاسات والألوان والتبويبات.",
+    "source": "Figma · Product Details · 33489:2317"
+  },
+  {
+    "id": "brand-01",
+    "title": "الشعار والاسم",
+    "group": "brand",
+    "thumbnail": "gallery/brand-01.webp",
+    "image": "gallery/brand-01.png",
+    "note": "صفحة من دليل الهوية الأصلي؛ تطبيق بصري لا يثبت إنتاج المنتج.",
+    "source": "Semsaam Brand Palette.pdf · p1"
+  },
+  {
+    "id": "brand-03",
+    "title": "لوحة الألوان",
+    "group": "brand",
+    "thumbnail": "gallery/brand-03.webp",
+    "image": "gallery/brand-03.png",
+    "note": "صفحة من دليل الهوية الأصلي؛ تطبيق بصري لا يثبت إنتاج المنتج.",
+    "source": "Semsaam Brand Palette.pdf · p3"
+  },
+  {
+    "id": "brand-04",
+    "title": "Rubik · العربية",
+    "group": "brand",
+    "thumbnail": "gallery/brand-04.webp",
+    "image": "gallery/brand-04.png",
+    "note": "صفحة من دليل الهوية الأصلي؛ تطبيق بصري لا يثبت إنتاج المنتج.",
+    "source": "Semsaam Brand Palette.pdf · p4"
+  },
+  {
+    "id": "brand-05",
+    "title": "Rubik · الإنجليزية",
+    "group": "brand",
+    "thumbnail": "gallery/brand-05.webp",
+    "image": "gallery/brand-05.png",
+    "note": "صفحة من دليل الهوية الأصلي؛ تطبيق بصري لا يثبت إنتاج المنتج.",
+    "source": "Semsaam Brand Palette.pdf · p5"
+  },
+  {
+    "id": "brand-06",
+    "title": "باترن الهوية · 01",
+    "group": "brand",
+    "thumbnail": "gallery/brand-06.webp",
+    "image": "gallery/brand-06.png",
+    "note": "صفحة من دليل الهوية الأصلي؛ تطبيق بصري لا يثبت إنتاج المنتج.",
+    "source": "Semsaam Brand Palette.pdf · p6"
+  },
+  {
+    "id": "brand-07",
+    "title": "باترن الهوية · 02",
+    "group": "brand",
+    "thumbnail": "gallery/brand-07.webp",
+    "image": "gallery/brand-07.png",
+    "note": "صفحة من دليل الهوية الأصلي؛ تطبيق بصري لا يثبت إنتاج المنتج.",
+    "source": "Semsaam Brand Palette.pdf · p7"
+  },
+  {
+    "id": "brand-08",
+    "title": "باترن الهوية · 03",
+    "group": "brand",
+    "thumbnail": "gallery/brand-08.webp",
+    "image": "gallery/brand-08.png",
+    "note": "صفحة من دليل الهوية الأصلي؛ تطبيق بصري لا يثبت إنتاج المنتج.",
+    "source": "Semsaam Brand Palette.pdf · p8"
+  },
+  {
+    "id": "brand-09",
+    "title": "تطبيق الهوية · سيت أب",
+    "group": "brand",
+    "thumbnail": "gallery/brand-09.webp",
+    "image": "gallery/brand-09.png",
+    "note": "صفحة من دليل الهوية الأصلي؛ تطبيق بصري لا يثبت إنتاج المنتج.",
+    "source": "Semsaam Brand Palette.pdf · p9"
+  },
+  {
+    "id": "brand-11",
+    "title": "تطبيق الهوية · جراب",
+    "group": "brand",
+    "thumbnail": "gallery/brand-11.webp",
+    "image": "gallery/brand-11.png",
+    "note": "صفحة من دليل الهوية الأصلي؛ تطبيق بصري لا يثبت إنتاج المنتج.",
+    "source": "Semsaam Brand Palette.pdf · p11"
+  },
+  {
+    "id": "brand-13",
+    "title": "تطبيق الهوية · ديسك مات",
+    "group": "brand",
+    "thumbnail": "gallery/brand-13.webp",
+    "image": "gallery/brand-13.png",
+    "note": "صفحة من دليل الهوية الأصلي؛ تطبيق بصري لا يثبت إنتاج المنتج.",
+    "source": "Semsaam Brand Palette.pdf · p13"
+  },
+  {
+    "id": "figma-hero-visual",
+    "title": "هيرو الموقع",
+    "group": "asset",
+    "thumbnail": "gallery/figma-hero-visual.webp",
+    "image": "gallery/figma-hero-visual.jpg",
+    "note": "أصل مسترجع مستخدم في نسخة الموقع؛ قد يكون رسمًا توضيحيًا.",
+    "source": "assets/images/figma-hero-visual.jpg"
+  },
+  {
+    "id": "figma-preorder-bg",
+    "title": "بنر الطلب المسبق",
+    "group": "asset",
+    "thumbnail": "gallery/figma-preorder-bg.webp",
+    "image": "gallery/figma-preorder-bg.jpg",
+    "note": "أصل مسترجع مستخدم في نسخة الموقع؛ قد يكون رسمًا توضيحيًا.",
+    "source": "assets/images/figma-preorder-bg.jpg"
+  },
+  {
+    "id": "figma-laptop-promo",
+    "title": "ترويج جراب اللابتوب",
+    "group": "asset",
+    "thumbnail": "gallery/figma-laptop-promo.webp",
+    "image": "gallery/figma-laptop-promo.jpg",
+    "note": "أصل مسترجع مستخدم في نسخة الموقع؛ قد يكون رسمًا توضيحيًا.",
+    "source": "assets/images/figma-laptop-promo.jpg"
+  },
+  {
+    "id": "figma-thickness-promo",
+    "title": "مقارنة السماكات",
+    "group": "asset",
+    "thumbnail": "gallery/figma-thickness-promo.webp",
+    "image": "gallery/figma-thickness-promo.jpg",
+    "note": "أصل مسترجع مستخدم في نسخة الموقع؛ قد يكون رسمًا توضيحيًا.",
+    "source": "assets/images/figma-thickness-promo.jpg"
+  },
+  {
+    "id": "product-desk-mat-standard",
+    "title": "ديسك مات · صورة الكود",
+    "group": "asset",
+    "thumbnail": "gallery/product-desk-mat-standard.webp",
+    "image": "gallery/product-desk-mat-standard.jpg",
+    "note": "أصل مسترجع مستخدم في نسخة الموقع؛ قد يكون رسمًا توضيحيًا.",
+    "source": "assets/images/product-desk-mat-standard.jpg"
+  },
+  {
+    "id": "product-pro-control",
+    "title": "Pro Control · صورة الكود",
+    "group": "asset",
+    "thumbnail": "gallery/product-pro-control.webp",
+    "image": "gallery/product-pro-control.jpg",
+    "note": "أصل مسترجع مستخدم في نسخة الموقع؛ قد يكون رسمًا توضيحيًا.",
+    "source": "assets/images/product-pro-control.jpg"
+  },
+  {
+    "id": "product-comfort-rest",
+    "title": "مسند المعصم · صورة الكود",
+    "group": "asset",
+    "thumbnail": "gallery/product-comfort-rest.webp",
+    "image": "gallery/product-comfort-rest.jpg",
+    "note": "أصل مسترجع مستخدم في نسخة الموقع؛ قد يكون رسمًا توضيحيًا.",
+    "source": "assets/images/product-comfort-rest.jpg"
+  },
+  {
+    "id": "product-care-kit",
+    "title": "كيت العناية · صورة الكود",
+    "group": "asset",
+    "thumbnail": "gallery/product-care-kit.webp",
+    "image": "gallery/product-care-kit.jpg",
+    "note": "أصل مسترجع مستخدم في نسخة الموقع؛ قد يكون رسمًا توضيحيًا.",
+    "source": "assets/images/product-care-kit.jpg"
+  },
+  {
+    "id": "product-bundle-setup",
+    "title": "تكوين الباقة · صورة الكود",
+    "group": "asset",
+    "thumbnail": "gallery/product-bundle-setup.webp",
+    "image": "gallery/product-bundle-setup.jpg",
+    "note": "أصل مسترجع مستخدم في نسخة الموقع؛ قد يكون رسمًا توضيحيًا.",
+    "source": "assets/images/product-bundle-setup.jpg"
+  },
+  {
+    "id": "hero-comfort-rest-live",
+    "title": "مسند المعصم · هيرو",
+    "group": "asset",
+    "thumbnail": "gallery/hero-comfort-rest-live.webp",
+    "image": "gallery/hero-comfort-rest-live.png",
+    "note": "أصل مسترجع مستخدم في نسخة الموقع؛ قد يكون رسمًا توضيحيًا.",
+    "source": "assets/images/hero-comfort-rest-live.png"
+  },
+  {
+    "id": "05-desktop-top-reset",
+    "title": "مراجعة الموقع · ديسكتوب",
+    "group": "capture",
+    "thumbnail": "gallery/05-desktop-top-reset.webp",
+    "image": "gallery/05-desktop-top-reset.png",
+    "note": "لقطة QA تاريخية مسترجعة، وليست اختبارًا جديدًا.",
+    "source": "tmp/homepage-audit/05-desktop-top-reset.png"
+  },
+  {
+    "id": "01-mobile-top",
+    "title": "مراجعة الموقع · موبايل",
+    "group": "capture",
+    "thumbnail": "gallery/01-mobile-top.webp",
+    "image": "gallery/01-mobile-top.png",
+    "note": "لقطة QA تاريخية مسترجعة، وليست اختبارًا جديدًا.",
+    "source": "tmp/homepage-audit/01-mobile-top.png"
+  },
+  {
+    "id": "home-ar-before-desktop",
+    "title": "الرئيسية قبل التحسين · ديسكتوب",
+    "group": "capture",
+    "thumbnail": "gallery/home-ar-before-desktop.webp",
+    "image": "gallery/home-ar-before-desktop.png",
+    "note": "مراجعة جديدة للرئيسية العربية · 8 أكتوبر 2026.",
+    "source": "knowledge-base/qa/home-ar-2026-10-08/before-desktop.png"
+  },
+  {
+    "id": "home-ar-after-desktop",
+    "title": "الرئيسية المحسّنة · ديسكتوب",
+    "group": "capture",
+    "thumbnail": "gallery/home-ar-after-desktop.webp",
+    "image": "gallery/home-ar-after-desktop.png",
+    "note": "مراجعة جديدة للرئيسية العربية · 8 أكتوبر 2026.",
+    "source": "knowledge-base/qa/home-ar-2026-10-08/after-desktop.png"
+  },
+  {
+    "id": "home-ar-before-mobile",
+    "title": "الرئيسية قبل التحسين · موبايل",
+    "group": "capture",
+    "thumbnail": "gallery/home-ar-before-mobile.webp",
+    "image": "gallery/home-ar-before-mobile.png",
+    "note": "مراجعة جديدة للرئيسية العربية · 8 أكتوبر 2026.",
+    "source": "knowledge-base/qa/home-ar-2026-10-08/before-mobile.png"
+  },
+  {
+    "id": "home-ar-after-mobile",
+    "title": "الرئيسية المحسّنة · موبايل",
+    "group": "capture",
+    "thumbnail": "gallery/home-ar-after-mobile.webp",
+    "image": "gallery/home-ar-after-mobile.png",
+    "note": "مراجعة جديدة للرئيسية العربية · 8 أكتوبر 2026.",
+    "source": "knowledge-base/qa/home-ar-2026-10-08/after-mobile.png"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "project_id": "appgprj_6ac78d15dbbc81919ec3b0e642cc80f0",
+  "version_id": "appgprj_6ac78d15dbbc81919ec3b0e642cc80f0~appgver_d70d6da20f388191b35dd7fb04e5a78c",
+  "version_number": 10,
+  "deployment_id": "appgdep_6ac89a21ea6881918406796def772483",
+  "url": "https://semsaam-knowledge-base.ahmadsabbah81.chatgpt.site",
+  "status": "succeeded",
+  "commit_sha": "140a8ee5da9689a438bbafe18df985f1877ac4e3",
+  "audience": "public",
+  "anonymous_access_verified": true,
+  "noindex_http_headers_verified": true,
+  "asset_storage": "private R2 served only through noindex Worker",
+  "uploaded_assets": 220,
+  "temporary_upload_secret_removed": true,
+  "env_set_revision": 14,
+  "change": "Install brand favicon B across knowledge base and website previews; synchronize current project data, market analysis and video download links"
+}

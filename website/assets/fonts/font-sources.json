@@ -1,0 +1,20 @@
+{
+  "stylesheet": "https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap&x=20261008",
+  "family": "Rubik",
+  "sources": [
+    {
+      "subset": "arabic",
+      "url": "https://fonts.gstatic.com/s/rubik/v31/iJWKBXyIfDnIV7nErXyi0A.woff2",
+      "sha256": "f5052e4870bf211fc22df5b85e791a292a77b9baef8cef1dc5a8e62a783ea1e0",
+      "bytes": 32468,
+      "date": "2026-10-08"
+    },
+    {
+      "subset": "latin",
+      "url": "https://fonts.gstatic.com/s/rubik/v31/iJWKBXyIfDnIV7nBrXw.woff2",
+      "sha256": "691cd1d9b4c0cdf31a1dcf04259c86f92c85e69f6622abab7964d81e36890691",
+      "bytes": 35348,
+      "date": "2026-10-08"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "status": "design handoff mapping, not a deployable Salla theme configuration",
+  "date": "2026-10-08",
+  "language": "ar",
+  "direction": "rtl",
+  "audience": "gaming enthusiasts; desk mats and setup accessories",
+  "reference": "ar/index.html",
+  "theme_base_proposed": "SallaApp/theme-raed",
+  "engine": "Twilight",
+  "palette": ["#101013", "#272727", "#F2F2F2", "#FAE100", "#900DFF", "#FF0181", "#A00082", "#32DBF0"],
+  "font": "Rubik; locally licensed Arabic and Latin WOFF2",
+  "components": [
+    {"section": "hero", "kind": "editable image/text slider", "fields": ["title", "subtitle", "slides", "primary_link", "secondary_link"], "motion_default": "off"},
+    {"section": "products", "kind": "native selected products", "replace_with_store_data": ["images", "titles", "links", "prices", "stock"]},
+    {"section": "materials", "kind": "editable image/text", "fields": ["heading", "description", "image", "details", "link"]},
+    {"section": "addons", "kind": "native accessories collection", "replace_with_store_data": ["images", "titles", "links", "prices", "stock"]},
+    {"section": "setup-cta", "kind": "editable call to action", "fields": ["heading", "description", "link"]}
+  ],
+  "replace_preview_interactions": ["local search -> Salla search", "header -> native account/cart components", "product discovery links -> actual product URLs"],
+  "verification_remaining": ["Twilight component schema", "SCSS scope in Theme Raed", "Salla CLI preview", "actual store data", "native cart and checkout", "iOS and Android device review"]
+}

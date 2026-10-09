@@ -1,0 +1,12 @@
+{
+  "source": "recovered/brand/Semsaam Brand Palette.pdf",
+  "page": 1,
+  "source_curves": [
+    2,
+    1
+  ],
+  "method": "Exact PDF vector extraction; source counter preserved. A rotates and scales the full mark; B clips the blade at x=993 without redrawing the Arabic mark. Palette-only colors. ",
+  "active_option": "B",
+  "installed_date": "2026-10-09",
+  "selection_basis": "Owner requested installing one of the existing candidates; B chosen for compact browser-tab legibility."
+}

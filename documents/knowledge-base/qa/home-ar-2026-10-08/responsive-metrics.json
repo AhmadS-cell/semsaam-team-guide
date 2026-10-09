@@ -1,0 +1,102 @@
+[
+  {
+    "bodyFont": "Rubik, Tahoma, sans-serif",
+    "brokenImages": 0,
+    "client": 345,
+    "cta": {
+      "bottom": 147.5625,
+      "height": 48,
+      "left": 16,
+      "right": 329,
+      "top": 99.5625,
+      "width": 313,
+      "x": 16,
+      "y": 99.5625
+    },
+    "h1Line": "46.4px",
+    "h1Size": "32px",
+    "height": 4755,
+    "scrollWidth": 345,
+    "width": 360
+  },
+  {
+    "bodyFont": "Rubik, Tahoma, sans-serif",
+    "brokenImages": 0,
+    "client": 375,
+    "cta": {
+      "bottom": 194.78125,
+      "height": 48,
+      "left": 20,
+      "right": 355,
+      "top": 146.78125,
+      "width": 335,
+      "x": 20,
+      "y": 146.78125
+    },
+    "h1Line": "49.3px",
+    "h1Size": "34px",
+    "height": 4803,
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "bodyFont": "Rubik, Tahoma, sans-serif",
+    "brokenImages": 0,
+    "client": 753,
+    "cta": {
+      "bottom": 320.3125,
+      "height": 52.25,
+      "left": 113,
+      "right": 733,
+      "top": 268.0625,
+      "width": 620,
+      "x": 113,
+      "y": 268.0625
+    },
+    "h1Line": "56px",
+    "h1Size": "40px",
+    "height": 4153,
+    "scrollWidth": 753,
+    "width": 768
+  },
+  {
+    "bodyFont": "Rubik, Tahoma, sans-serif",
+    "brokenImages": 0,
+    "client": 1009,
+    "cta": {
+      "bottom": 467.34375,
+      "height": 52.25,
+      "left": 542.25,
+      "right": 977,
+      "top": 415.09375,
+      "width": 434.75,
+      "x": 542.25,
+      "y": 415.09375
+    },
+    "h1Line": "50.4px",
+    "h1Size": "36px",
+    "height": 3350,
+    "scrollWidth": 1009,
+    "width": 1024
+  },
+  {
+    "bodyFont": "Rubik, Tahoma, sans-serif",
+    "brokenImages": 0,
+    "client": 1425,
+    "cta": {
+      "bottom": 572.921875,
+      "height": 52.25,
+      "left": 821.34375,
+      "right": 1352.5,
+      "top": 520.671875,
+      "width": 531.15625,
+      "x": 821.34375,
+      "y": 520.671875
+    },
+    "h1Line": "69.552px",
+    "h1Size": "49.68px",
+    "height": 3652,
+    "scrollWidth": 1425,
+    "width": 1440
+  }
+]

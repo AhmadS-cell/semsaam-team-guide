@@ -1,0 +1,244 @@
+{
+  "as_of": "2026-10-09",
+  "market": "Saudi Arabia and Gulf; Saudi prices/model",
+  "owner_target": {
+    "margin": 0.8,
+    "meaning": "80% margin from selling price, confirmed in chat; show VAT-exclusive and customer-price denominators separately"
+  },
+  "evidence": {
+    "attached_pdf": "evidence/link-bahr-updated-2026-10-09.pdf",
+    "pages": 2,
+    "sha256": "449cecb7237d731f30f71982eba34cb3b2cb5a4eb81b5efea4771ae81ecfb904",
+    "date_status": "received 9 October 2026; document issue/expiry date not visible",
+    "status": "preliminary updated quotation, not purchase approval"
+  },
+  "supplier": {
+    "mat": {
+      "dimensions_mm": [
+        900,
+        400,
+        4
+      ],
+      "features": [
+        "full-colour print",
+        "stitched edges",
+        "anti-slip rubber base",
+        "water-resistant surface",
+        "custom design"
+      ],
+      "tiers": [
+        {
+          "quantity": 1000,
+          "usd": 3.9,
+          "sar": 14.625
+        },
+        {
+          "quantity": 2000,
+          "usd": 3.65,
+          "sar": 13.6875
+        }
+      ]
+    },
+    "bundle": {
+      "contents": [
+        "printed 900×400×4mm desk mat",
+        "keyboard wrist rest",
+        "mouse wrist rest",
+        "desk cleaning kit",
+        "silicone cable holder (3/5 slots require selection)",
+        "reusable cable ties 20×350mm"
+      ],
+      "tiers": [
+        {
+          "quantity": 1000,
+          "usd": 8.015,
+          "sar": 30.05625
+        },
+        {
+          "quantity": 2000,
+          "usd": 7.915,
+          "sar": 29.68125
+        }
+      ]
+    },
+    "organisers_usd_approx": 0.56,
+    "organisers_sar_approx": 2.1,
+    "organisers_included_in_bundle": true,
+    "terms": "DDP Riyadh includes sea freight, export, customs, import VAT, clearance and delivery to Riyadh address per p2; final sample, packaging, logo and lead time require confirmation"
+  },
+  "assumptions": {
+    "usd_sar": 3.75,
+    "vat": 0.15,
+    "seller_vat_registered": true,
+    "input_vat_recovery": false,
+    "shipping_ex_vat_sar": 20,
+    "carton_ex_vat_sar": 5,
+    "fulfilment_ex_vat_sar": 4,
+    "included_fulfilment_units": 3,
+    "extra_unit_ex_vat_sar": 0.5,
+    "receive_ex_vat_sar_per_unit": 0.1,
+    "storage_ex_vat_sar_per_unit_day": 0.05,
+    "storage_days": 30,
+    "payment_effective_rate": 0.03,
+    "returns_reserve_rate": 0.03,
+    "cpc_sar": 1.2,
+    "cvr": 0.04,
+    "fixed_business_overheads_excluded": true
+  },
+  "competitors": [
+    {
+      "name": "Razer",
+      "role": "gaming performance and Saudi retail benchmark",
+      "product": "Gigantus V2 XXL",
+      "dimensions_mm": [
+        940,
+        410,
+        4
+      ],
+      "price_sar": 149,
+      "price_market": "Geekay Saudi",
+      "availability": "out of stock online at observed page; ask in store",
+      "source": "https://www.geekay.com/saudi_en/razer-gigantus-v2-soft-gaming-mouse-mat-2x-large",
+      "spec_source": "https://www.razer.com/gb-en/gaming-mouse-mats/razer-gigantus-v2",
+      "lesson": "clear size comparison and functional surface/base evidence; test Semsaam claims on real samples"
+    },
+    {
+      "name": "Deskr",
+      "role": "printed designs and setup culture; global benchmark, Saudi sales not established",
+      "product": "Black Topo Canyon / Great Wave Dark / Fujiyoshida City Pixel",
+      "price_usd": 35,
+      "price_sar_conversion_only": 131.25,
+      "source": "https://deskr.co/collections/deskpads",
+      "product_sources": [
+        "https://deskr.co/products/black-canyon-deskpad?variant=44093706076404",
+        "https://deskr.co/products/great-wave-dark-deskpad?variant=44472824332532",
+        "https://deskr.co/products/fujiyoshida-city-pixel-deskpad?variant=44472818368756"
+      ],
+      "lesson": "test original topographic, restrained wave and pixel designs; displayed reviews are not unit sales"
+    },
+    {
+      "name": "Orbitkey",
+      "role": "minimal office and cable organisation; global benchmark",
+      "product": "Desk Mat Large (current standard version, not Desk Mat Pro)",
+      "dimensions_mm_approx": [
+        900,
+        380,
+        2
+      ],
+      "price_usd": 49.9,
+      "price_sar_conversion_only": 187.125,
+      "standard_usd": 39.9,
+      "source": "https://www.orbitkey.com/collections/desk-mats/products/deskmat?variant=67619697721440",
+      "lesson": "show useful cable organisation and minimal colours; PU version is different from Semsaam printed cloth"
+    }
+  ],
+  "best_seller_evidence": "No audited unit sales, market share or verified Saudi best-seller ranking found. Featured/catalogue placement, review counts and stockouts are weaker signals, not a sales ranking.",
+  "scenarios": {
+    "mat": {
+      "price_sar": 129,
+      "landed_sar": 14.625,
+      "billable_units": 1,
+      "variable_cost_fixed_sar": 79.815,
+      "revenue_ex_vat_sar": 112.17391304347827,
+      "contribution_sar": 24.61891304347827,
+      "contribution_margin_ex_vat": 0.2194709302325582,
+      "contribution_margin_customer_price": 0.19084428715874627,
+      "goods_margin_ex_vat": 0.8696220930232559,
+      "goods_only_price_for_80_ex_vat": 84.09375,
+      "price_for_80_ex_vat": 700.666030534351,
+      "price_for_80_customer_price": 8344.295454545463,
+      "break_even_cac_sar": 54.61891304347827,
+      "cac_sar": 30.0,
+      "cvr": 0.04,
+      "cpc_sar": 1.2
+    },
+    "bundle": {
+      "price_sar": 199,
+      "landed_sar": 30.05625,
+      "billable_units": 6,
+      "variable_cost_fixed_sar": 106.17125,
+      "revenue_ex_vat_sar": 173.0434782608696,
+      "contribution_sar": 54.93222826086959,
+      "contribution_margin_ex_vat": 0.31744755025125637,
+      "contribution_margin_customer_price": 0.2760413480445708,
+      "goods_margin_ex_vat": 0.8263081030150754,
+      "goods_only_price_for_80_ex_vat": 172.82343749999998,
+      "price_for_80_ex_vat": 932.0376908396945,
+      "price_for_80_customer_price": 11099.721590909103,
+      "break_even_cac_sar": 84.93222826086959,
+      "cac_sar": 30.0,
+      "cvr": 0.04,
+      "cpc_sar": 1.2
+    }
+  },
+  "sensitivity": [
+    {
+      "cvr": 0.02,
+      "cpc_sar": 0.8,
+      "cac_sar": 40.0,
+      "bundle_contribution_sar": 44.93222826086959
+    },
+    {
+      "cvr": 0.02,
+      "cpc_sar": 1.2,
+      "cac_sar": 60.0,
+      "bundle_contribution_sar": 24.932228260869607
+    },
+    {
+      "cvr": 0.02,
+      "cpc_sar": 1.6,
+      "cac_sar": 80.0,
+      "bundle_contribution_sar": 4.932228260869605
+    },
+    {
+      "cvr": 0.04,
+      "cpc_sar": 0.8,
+      "cac_sar": 20.0,
+      "bundle_contribution_sar": 64.93222826086959
+    },
+    {
+      "cvr": 0.04,
+      "cpc_sar": 1.2,
+      "cac_sar": 30.0,
+      "bundle_contribution_sar": 54.93222826086959
+    },
+    {
+      "cvr": 0.04,
+      "cpc_sar": 1.6,
+      "cac_sar": 40.0,
+      "bundle_contribution_sar": 44.93222826086959
+    },
+    {
+      "cvr": 0.06,
+      "cpc_sar": 0.8,
+      "cac_sar": 13.333333333333334,
+      "bundle_contribution_sar": 71.59889492753626
+    },
+    {
+      "cvr": 0.06,
+      "cpc_sar": 1.2,
+      "cac_sar": 20.0,
+      "bundle_contribution_sar": 64.93222826086959
+    },
+    {
+      "cvr": 0.06,
+      "cpc_sar": 1.6,
+      "cac_sar": 26.666666666666668,
+      "bundle_contribution_sar": 58.26556159420292
+    }
+  ],
+  "sources": [
+    {
+      "name": "ZATCA VAT",
+      "url": "https://zatca.gov.sa/ar/RulesRegulations/VAT/Pages/default.aspx/1000"
+    },
+    {
+      "name": "SAMA exchange-rate reference",
+      "url": "https://sama.gov.sa/en-US/EconomicReports/AnnualReport/Annual_Report_55th-EN.pdf"
+    },
+    {
+      "name": "Historical logistics assumptions",
+      "file": "operations.md"
+    }
+  ]
+}

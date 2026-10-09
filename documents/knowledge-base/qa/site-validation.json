@@ -1,0 +1,50 @@
+{
+  "html_pages": [
+    {
+      "path": "index.html",
+      "noindex": true
+    },
+    {
+      "path": "website\\index.html",
+      "noindex": true
+    },
+    {
+      "path": "website\\product-details.html",
+      "noindex": true
+    },
+    {
+      "path": "website\\product-list.html",
+      "noindex": true
+    },
+    {
+      "path": "website\\ar\\favicon-options.html",
+      "noindex": true
+    },
+    {
+      "path": "website\\ar\\index.html",
+      "noindex": true
+    },
+    {
+      "path": "website\\ar\\product-details.html",
+      "noindex": true
+    },
+    {
+      "path": "website\\ar\\product-list.html",
+      "noindex": true
+    },
+    {
+      "path": "website\\assets\\tracking-checklist-banner-ar.html",
+      "noindex": true
+    },
+    {
+      "path": "website\\assets\\tracking-checklist-banner.html",
+      "noindex": true
+    }
+  ],
+  "broken_local_references": [],
+  "gallery_assets": 29,
+  "robots_allows_noindex_discovery": true,
+  "headers_configured": true,
+  "audience": "public by explicit owner request; GitHub remains private",
+  "largest_asset_bytes": 19819016
+}

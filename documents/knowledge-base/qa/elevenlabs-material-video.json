@@ -1,0 +1,12 @@
+{
+  "provider": "ElevenLabs",
+  "model": "veo-3.1-fast-generate-001",
+  "source": "recovered/website/assets/images/home-material-closeup.png",
+  "durationSeconds": 6,
+  "resolution": "1080p",
+  "audio": false,
+  "prompt": "Premium product beauty macro film from this exact Semsaam gaming desk mat reference. Preserve the exact black woven textile, black stitched border, folded edge, rubber backing geometry, cyan and purple printed streaks, and existing droplets. Very slow smooth camera push-in and tiny lateral glide across the stitched edge to reveal woven texture, with a restrained soft highlight. All product geometry rigid and unchanged, droplets static. Single elegant continuous close-up. No people, hands, tools, new colors, added water, splashes, logos, text, overlays or extra objects. No morphing, distortion, shaking or jump cuts. Silent, no speech or soundtrack. Finish close to the start for a gentle website loop.",
+  "httpStatus": 402,
+  "errorStatus": "paid_plan_required",
+  "message": "This endpoint requires a Pro plan or above."
+}

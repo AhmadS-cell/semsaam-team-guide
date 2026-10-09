@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="280" viewBox="0 0 420 280" fill="none">
+  <defs>
+    <symbol id="sem-sword" viewBox="0 0 220 64">
+      <path d="M15 43h111l22-22 1 14h39l15-11-8 19h-46l-1 13-22-13H15z" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M121 43l27-27 1 20h38" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    </symbol>
+  </defs>
+  <rect width="420" height="280" fill="transparent"/>
+  <g color="#f2f2f2" opacity=".16">
+    <use href="#sem-sword" width="96" height="28" x="20" y="20" transform="rotate(-28 68 34)"/>
+    <use href="#sem-sword" width="84" height="24" x="184" y="16" transform="rotate(36 226 28)"/>
+    <use href="#sem-sword" width="112" height="32" x="308" y="8" transform="rotate(-22 364 24)"/>
+    <use href="#sem-sword" width="118" height="34" x="76" y="86" transform="rotate(-28 135 103)"/>
+    <use href="#sem-sword" width="88" height="26" x="252" y="86" transform="rotate(34 296 99)"/>
+    <use href="#sem-sword" width="116" height="34" x="-10" y="164" transform="rotate(35 48 181)"/>
+    <use href="#sem-sword" width="100" height="29" x="158" y="168" transform="rotate(-28 208 182)"/>
+    <use href="#sem-sword" width="118" height="34" x="300" y="174" transform="rotate(34 359 191)"/>
+    <use href="#sem-sword" width="94" height="27" x="64" y="236" transform="rotate(-22 111 249)"/>
+    <use href="#sem-sword" width="116" height="34" x="218" y="232" transform="rotate(-28 276 249)"/>
+  </g>
+  <g color="#32dbf0" opacity=".18">
+    <use href="#sem-sword" width="96" height="28" x="112" y="38" transform="rotate(34 160 52)"/>
+    <use href="#sem-sword" width="96" height="28" x="336" y="100" transform="rotate(-28 384 114)"/>
+    <use href="#sem-sword" width="90" height="26" x="42" y="128" transform="rotate(-28 87 141)"/>
+    <use href="#sem-sword" width="104" height="30" x="206" y="128" transform="rotate(34 258 143)"/>
+  </g>
+  <g color="#ff0181" opacity=".16">
+    <use href="#sem-sword" width="104" height="30" x="252" y="38" transform="rotate(-28 304 53)"/>
+    <use href="#sem-sword" width="84" height="24" x="142" y="104" transform="rotate(35 184 116)"/>
+    <use href="#sem-sword" width="102" height="30" x="40" y="204" transform="rotate(34 91 219)"/>
+  </g>
+  <g color="#fae100" opacity=".14">
+    <use href="#sem-sword" width="116" height="34" x="300" y="226" transform="rotate(-22 358 243)"/>
+    <use href="#sem-sword" width="82" height="24" x="8" y="76" transform="rotate(34 49 88)"/>
+  </g>
+</svg>

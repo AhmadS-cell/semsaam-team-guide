@@ -1,0 +1,237 @@
+{
+  "origin": "https://semsaam-knowledge-base.ahmadsabbah81.chatgpt.site",
+  "checked_at": "2026-10-09T07:39:52.010723+00:00",
+  "audience": "public",
+  "anonymous_checks": [
+    {
+      "path": "/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "x_robots_tag": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+      "public": true,
+      "noindex": true,
+      "html_noindex": true
+    },
+    {
+      "path": "/styles.css",
+      "status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "x_robots_tag": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+      "public": true,
+      "noindex": true
+    },
+    {
+      "path": "/downloads/brand.pdf",
+      "status": 200,
+      "content_type": "application/pdf",
+      "x_robots_tag": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+      "public": true,
+      "noindex": true
+    },
+    {
+      "path": "/gallery/brand-01.png",
+      "status": 200,
+      "content_type": "image/png",
+      "x_robots_tag": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+      "public": true,
+      "noindex": true
+    },
+    {
+      "path": "/website/ar/index.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "x_robots_tag": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+      "public": true,
+      "noindex": true,
+      "html_noindex": true
+    },
+    {
+      "path": "/evidence/figma-live-home.png",
+      "status": 200,
+      "content_type": "image/png",
+      "x_robots_tag": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+      "public": true,
+      "noindex": true
+    },
+    {
+      "path": "/data/privacy.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "x_robots_tag": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+      "public": true,
+      "noindex": true
+    },
+    {
+      "path": "/robots.txt",
+      "status": 200,
+      "content_type": "text/plain",
+      "x_robots_tag": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+      "public": true,
+      "noindex": true,
+      "robots_allows_noindex_discovery": true
+    },
+    {
+      "path": "/website/assets/js/main.js",
+      "status": 200,
+      "content_type": "text/javascript; charset=utf-8",
+      "x_robots_tag": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+      "public": true,
+      "noindex": true
+    },
+    {
+      "path": "/website/assets/css/home-ar.css",
+      "status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "x_robots_tag": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+      "public": true,
+      "noindex": true
+    },
+    {
+      "path": "/website/assets/js/home-ar.js",
+      "status": 200,
+      "content_type": "text/javascript; charset=utf-8",
+      "x_robots_tag": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+      "public": true,
+      "noindex": true
+    },
+    {
+      "path": "/website/assets/fonts/rubik-arabic.woff2",
+      "status": 200,
+      "content_type": "font/woff2",
+      "x_robots_tag": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+      "public": true,
+      "noindex": true
+    },
+    {
+      "path": "/gallery/home-ar-after-mobile.png",
+      "status": 200,
+      "content_type": "image/png",
+      "x_robots_tag": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+      "public": true,
+      "noindex": true
+    },
+    {
+      "path": "/data/homepage-ar-audit.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "x_robots_tag": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+      "public": true,
+      "noindex": true
+    },
+    {
+      "path": "/website/ar/product-details.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "x_robots_tag": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+      "public": true,
+      "noindex": true,
+      "html_noindex": true
+    },
+    {
+      "path": "/website/ar/favicon-options.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "x_robots_tag": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+      "public": true,
+      "noindex": true,
+      "html_noindex": true
+    },
+    {
+      "path": "/website/assets/icons/options/favicon-a.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "x_robots_tag": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+      "public": true,
+      "noindex": true
+    },
+    {
+      "path": "/website/assets/icons/options/favicon-b.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "x_robots_tag": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+      "public": true,
+      "noindex": true
+    },
+    {
+      "path": "/website/assets/videos/material-beauty-draft.mp4",
+      "status": 200,
+      "content_type": "video/mp4",
+      "x_robots_tag": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+      "public": true,
+      "noindex": true
+    },
+    {
+      "path": "/website/assets/videos/material-beauty-seedance.mp4",
+      "status": 200,
+      "content_type": "video/mp4",
+      "x_robots_tag": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+      "public": true,
+      "noindex": true
+    },
+    {
+      "path": "/website/assets/videos/material-beauty-poster.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "x_robots_tag": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+      "public": true,
+      "noindex": true
+    },
+    {
+      "path": "/website/assets/js/product-ar.js",
+      "status": 200,
+      "content_type": "text/javascript; charset=utf-8",
+      "x_robots_tag": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+      "public": true,
+      "noindex": true
+    },
+    {
+      "path": "/data/homepage-ar-followup.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "x_robots_tag": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+      "public": true,
+      "noindex": true
+    },
+    {
+      "path": "/pricing.css",
+      "status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "x_robots_tag": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+      "public": true,
+      "noindex": true
+    },
+    {
+      "path": "/pricing.js",
+      "status": 200,
+      "content_type": "text/javascript; charset=utf-8",
+      "x_robots_tag": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+      "public": true,
+      "noindex": true
+    },
+    {
+      "path": "/data/deskmat-market-2026-10-09.md",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "x_robots_tag": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+      "public": true,
+      "noindex": true
+    },
+    {
+      "path": "/data/deskmat-market-2026-10-09.json",
+      "status": 200,
+      "content_type": "application/json",
+      "x_robots_tag": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+      "public": true,
+      "noindex": true
+    },
+    {
+      "path": "/downloads/supplier-quote-updated-2026-10-09.pdf",
+      "status": 200,
+      "content_type": "application/pdf",
+      "x_robots_tag": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+      "public": true,
+      "noindex": true
+    }
+  ],
+  "all_public_and_noindex": true
+}

@@ -1,0 +1,123 @@
+{
+  "pdfs": [
+    {
+      "file": "recovered/brand/Semsaam Brand Palette.pdf",
+      "pages": 13,
+      "text": "knowledge-base/evidence/Semsaam Brand Palette.txt",
+      "chars": 225
+    },
+    {
+      "file": "recovered/documents/Desktop Mate Addon Products Factory Brief v1.1 - Google Doc.pdf",
+      "pages": 10,
+      "text": "knowledge-base/evidence/Desktop Mate Addon Products Factory Brief v1.1 - Google Doc.txt",
+      "chars": 14025
+    },
+    {
+      "file": "recovered/documents/EXPORT.IMPORT.pdf",
+      "pages": 6,
+      "text": "knowledge-base/evidence/EXPORT.IMPORT.txt",
+      "chars": 102
+    },
+    {
+      "file": "recovered/documents/Gaming Desk Mat Factory Specification - Saudi Arabia - Version 2.pdf",
+      "pages": 11,
+      "text": "knowledge-base/evidence/Gaming Desk Mat Factory Specification - Saudi Arabia - Version 2.txt",
+      "chars": 20203
+    },
+    {
+      "file": "recovered/documents/عرض سعر شركة الثابت البرمجي.pdf",
+      "pages": 2,
+      "text": "knowledge-base/evidence/عرض سعر شركة الثابت البرمجي.txt",
+      "chars": 3219
+    }
+  ],
+  "file_extensions": {
+    ".pdf": 5,
+    "": 1,
+    ".html": 8,
+    ".xlsx": 1,
+    ".png": 176,
+    ".jpg": 46,
+    ".py": 2,
+    ".js": 2,
+    ".json": 16,
+    ".css": 1,
+    ".svg": 3,
+    ".webm": 4,
+    ".mjs": 8
+  },
+  "css_colors": {
+    "dark": "#101013",
+    "dark-2": "#272727",
+    "light": "#f2f2f2",
+    "yellow": "#fae100",
+    "purple": "#900dff",
+    "pink": "#ff0181",
+    "plum": "#a00082",
+    "cyan": "#32dbf0",
+    "panel": "#17171b",
+    "panel-2": "#1f2024",
+    "sand": "#dac2a0",
+    "olive": "#32453b",
+    "gold": "#c3a05a"
+  },
+  "products_in_design": [
+    {
+      "data-product-card": null,
+      "data-name": "Premium Printed Desk Mat",
+      "data-price": "345",
+      "data-rating": "4.8",
+      "data-category": "desk-mats",
+      "data-colors": "black,purple"
+    },
+    {
+      "data-product-card": null,
+      "data-name": "Pro Control Performance Mat",
+      "data-price": "395",
+      "data-rating": "4.7",
+      "data-category": "pro-control",
+      "data-colors": "black,olive,gold"
+    },
+    {
+      "data-product-card": null,
+      "data-name": "Comfort Rest Set",
+      "data-price": "59",
+      "data-rating": "4.6",
+      "data-category": "comfort",
+      "data-colors": "black,sand,olive"
+    },
+    {
+      "data-product-card": null,
+      "data-name": "Dry Care Kit",
+      "data-price": "29",
+      "data-rating": "4.5",
+      "data-category": "care-kits",
+      "data-colors": "black,sand"
+    },
+    {
+      "data-product-card": null,
+      "data-name": "Desktop Mate Bundle",
+      "data-price": "409",
+      "data-rating": "4.8",
+      "data-category": "desk-mats",
+      "data-colors": "black,sand,olive"
+    },
+    {
+      "data-product-card": null,
+      "data-name": "Keyboard Rest Pro",
+      "data-price": "49",
+      "data-rating": "4.4",
+      "data-category": "comfort",
+      "data-colors": "black"
+    }
+  ],
+  "missing_local_page_references": [],
+  "external_dependencies": [
+    "https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js",
+    "https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js",
+    "https://fonts.googleapis.com",
+    "https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@400;500;700;800;900&family=Rubik:wght@400;500;600;700;800;900&display=swap",
+    "https://fonts.gstatic.com"
+  ],
+  "page_count": 6
+}

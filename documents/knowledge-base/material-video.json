@@ -1,0 +1,86 @@
+{
+  "source": "recovered/website/assets/images/home-material-closeup.png",
+  "source_sha256": "1b3b1bcc0041845b2058f99096f951dfe592414297143b99b10de72ef02e9495",
+  "output": "storefront/assets/videos/material-beauty-seedance.mp4",
+  "sha256": "d445c409bff15b2b6a30373c01a19b63377142346d42d5b0fee8cda2064a370b",
+  "bytes": 702527,
+  "duration_seconds": 5.04,
+  "fps": 24.0,
+  "width": 960,
+  "height": 720,
+  "audio": false,
+  "method": "Owner generated through ElevenLabs UI; model Seedance 2.5 identified by supplied filename. Converted HEVC to H.264, resized without cropping, removed audio, enabled faststart.",
+  "status": "owner-supplied generated video, visually reviewed and integrated",
+  "elevenlabs_ui_attempt": {
+    "date": "2026-10-09",
+    "browser": "Codex in-app browser",
+    "reference_uploaded_by_owner": true,
+    "model": "Veo 3.1 Fast",
+    "duration_seconds": 6,
+    "resolution": "1080p",
+    "audio": false,
+    "number_of_generations": 1,
+    "generation_started": false,
+    "failure": "UI rejected generation: My Workspace is on Free plan; only that workspace appeared in the switcher.",
+    "evidence": "qa/elevenlabs-internal-free-workspace.jpg"
+  },
+  "elevenlabs_attempt": {
+    "date": "2026-10-09",
+    "model": "veo-3.1-fast-generate-001",
+    "duration_seconds": 6,
+    "source_import_authorized_by_owner": true,
+    "api_account_tier": "creator",
+    "http_status": 402,
+    "failure": "paid_plan_required: This endpoint requires a Pro plan or above.",
+    "generation_started": false,
+    "evidence": "qa/elevenlabs-material-video.json"
+  },
+  "generation_attempt": {
+    "provider": "HiggsField",
+    "model": "kling3_0_turbo",
+    "duration": 7,
+    "preflight_credits": 14,
+    "submitted": false,
+    "failure": "Requires basic plan or higher",
+    "source_import_authorized_by_owner": true
+  },
+  "previous_local_draft": {
+    "output": "storefront/assets/videos/material-beauty-draft.mp4",
+    "sha256": "ce86875bb1c2b4c59472a6b69a5101e2325fafd602ae19d43373ace7febcb497",
+    "bytes": 871582,
+    "duration_seconds": 7,
+    "fps": 30,
+    "width": 840,
+    "height": 840,
+    "audio": false,
+    "method": "Local FFmpeg camera push-in and return over original still; no new generated product footage.",
+    "status": "motion draft"
+  },
+  "generated_original": {
+    "file": "knowledge-base/evidence/material-seedance-original.mp4",
+    "supplied_filename": "ElevenLabs_video_seedance-2-5_Premium Semsaam_2026-10-09T06_53_45.mp4",
+    "sha256": "c41831b339046990f91db8ad407b8fe7d7c7a7340d9095ca97e8b3f97c487c8e",
+    "bytes": 14634459,
+    "width": 1664,
+    "height": 1248,
+    "fps": 24,
+    "duration_seconds": 5.06,
+    "video_codec": "HEVC Main 10",
+    "audio_codec": "AAC",
+    "received_date": "2026-10-09"
+  },
+  "poster": "storefront/assets/videos/material-beauty-poster.jpg",
+  "playback": "Explicit play, single pass, optional replay; no autoplay or looping; preload none.",
+  "review": {
+    "evidence": "qa/material-video-2026-10-09/contact-sheet.jpg",
+    "sampled_seconds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      4.95
+    ],
+    "findings": "Slow macro push-in; cyan/purple palette and black woven edge remain visually consistent. No added text, people or hands visible. Last frame differs from first, so looping is disabled. Generated visuals are not manufacturing evidence."
+  }
+}

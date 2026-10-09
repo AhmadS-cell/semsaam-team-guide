@@ -1,0 +1,222 @@
+{
+  "checked_at": "2026-10-08T14:28:00.970320+00:00",
+  "scope": "Preparation only; no storefront, theme or hosted source changes",
+  "html_pages": [
+    {
+      "file": "recovered/website/index.html",
+      "sha256": "5412bbaad66131710b0219b29ed9b4bedd103e7223f2476b115954b27d4302fe",
+      "lang": "en",
+      "dir": "ltr",
+      "h1": [
+        "Upgrade the desk you use every day"
+      ],
+      "section_ids": [
+        null,
+        null,
+        "preorder",
+        null,
+        null,
+        "bundle-builder",
+        "materials",
+        null,
+        null,
+        null,
+        null
+      ],
+      "stylesheets": [
+        "https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@400;500;700;800;900&family=Rubik:wght@400;500;600;700;800;900&display=swap",
+        "assets/css/styles.css"
+      ],
+      "scripts": [
+        "https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js",
+        "https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js",
+        "assets/js/main.js"
+      ]
+    },
+    {
+      "file": "recovered/website/product-list.html",
+      "sha256": "15831f59096580a8873ce990dfeb7b52ec486112a3fe9d2cb438b2047a8d6329",
+      "lang": "en",
+      "dir": "ltr",
+      "h1": [
+        "Desktop Mate"
+      ],
+      "section_ids": [
+        null,
+        null,
+        null
+      ],
+      "stylesheets": [
+        "https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@400;500;700;800;900&family=Rubik:wght@400;500;600;700;800;900&display=swap",
+        "assets/css/styles.css"
+      ],
+      "scripts": [
+        "https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js",
+        "https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js",
+        "assets/js/main.js"
+      ]
+    },
+    {
+      "file": "recovered/website/product-details.html",
+      "sha256": "7a91210ed842877dd2674ff81d008fa7deb96fb32cb42fb9d298516f05125d09",
+      "lang": "en",
+      "dir": "ltr",
+      "h1": [
+        "Premium Printed Desk Mat"
+      ],
+      "section_ids": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "stylesheets": [
+        "https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@400;500;700;800;900&family=Rubik:wght@400;500;600;700;800;900&display=swap",
+        "assets/css/styles.css"
+      ],
+      "scripts": [
+        "https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js",
+        "https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js",
+        "assets/js/main.js"
+      ]
+    },
+    {
+      "file": "recovered/website/ar/index.html",
+      "sha256": "916da5e3aff50cd29ff06a4929677b64048245e14bb34341b56d0e6673d97f81",
+      "lang": "ar",
+      "dir": "rtl",
+      "h1": [
+        "طوّر المكتب الذي تستخدمه كل يوم"
+      ],
+      "section_ids": [
+        null,
+        null,
+        "preorder",
+        null,
+        null,
+        "bundle-builder",
+        "materials",
+        null,
+        null,
+        null,
+        null
+      ],
+      "stylesheets": [
+        "https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@400;500;700;800;900&family=Rubik:wght@400;500;600;700;800;900&display=swap",
+        "../assets/css/styles.css"
+      ],
+      "scripts": [
+        "https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js",
+        "https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js",
+        "../assets/js/main.js"
+      ]
+    },
+    {
+      "file": "recovered/website/ar/product-list.html",
+      "sha256": "6489d5c06abc601fc8214250c5d12c8a0d213faeb5a6c33663b58e6c0ea4507b",
+      "lang": "ar",
+      "dir": "rtl",
+      "h1": [
+        "Desktop Mate"
+      ],
+      "section_ids": [
+        null,
+        null,
+        null
+      ],
+      "stylesheets": [
+        "https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@400;500;700;800;900&family=Rubik:wght@400;500;600;700;800;900&display=swap",
+        "../assets/css/styles.css"
+      ],
+      "scripts": [
+        "https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js",
+        "https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js",
+        "../assets/js/main.js"
+      ]
+    },
+    {
+      "file": "recovered/website/ar/product-details.html",
+      "sha256": "047afd34bc5b695b2de96cf8c70c3ca0d0c2db608ee0d34c6d1bd5cb1b884fa3",
+      "lang": "ar",
+      "dir": "rtl",
+      "h1": [
+        "ديسك مات مطبوع"
+      ],
+      "section_ids": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "stylesheets": [
+        "https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@400;500;700;800;900&family=Rubik:wght@400;500;600;700;800;900&display=swap",
+        "../assets/css/styles.css"
+      ],
+      "scripts": [
+        "https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js",
+        "https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js",
+        "../assets/js/main.js"
+      ]
+    }
+  ],
+  "archive_design_theme_file_counts": {
+    ".twig": 0,
+    ".sketch": 0,
+    ".fig": 0,
+    "twilight.json": 0
+  },
+  "source_drive_scan": {
+    "path": "E:/ahmadsabbah/Documents/Semsam",
+    "patterns": [
+      "*.twig",
+      "twilight.json",
+      "package.json",
+      "*.sketch",
+      "*.fig"
+    ],
+    "matches": 0
+  },
+  "musdal_reference_files": [
+    {
+      "path": "D:\\Musdal\\website-research-2026-10-04\\design-brief.json",
+      "sha256": "1cc3727ed696f90e445e8f8ab1d18c53146af159e57a782474bfc48f795a98cf"
+    },
+    {
+      "path": "D:\\Musdal\\homepage-preview-v5\\package.json",
+      "sha256": "213841ca7ec4ec9514e624bd8b5a7ccecb175217d4da85ad7d3b814ea60ee8e7"
+    },
+    {
+      "path": "D:\\Musdal\\homepage-preview-v5\\README.md",
+      "sha256": "78c6f96d51905f253ddaf60f5d9cc291e3a0675a6a406790e6363798af262515"
+    }
+  ],
+  "musdal_prototype_dependencies": {
+    "@vitejs/plugin-react": "5.0.4",
+    "html-to-image": "1.11.13",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "vite": "6.4.2"
+  },
+  "musdal_salla_mapping": {
+    "home": "src/views/pages/index.twig",
+    "collection": "src/views/pages/product/index.twig",
+    "product": "src/views/pages/product/single.twig",
+    "cart": "src/views/pages/cart.twig",
+    "merchant_settings": "twilight.json ومكونات الرئيسية القابلة لإدارة التاجر",
+    "integration": "Twig وSalla components وTwilight JS SDK؛ بيانات المنتج والمخزون والأسعار والسلة مصدرها المنصة",
+    "verify_in_demo_store": [
+      "إمكانية تركيب ثيم خاص وخطة المتجر وحساب الشريك",
+      "الفلاتر الخاصة بالخامة/الشفافية",
+      "تكاليف التخصيص وزمنه وسياساته",
+      "تقدير التوصيل حسب المدينة",
+      "ربط صور ومخزون المتغيرات"
+    ]
+  },
+  "musdal_next_build_order": [
+    "تثبيت كتالوج نموذجي يغطي الرجال والنساء والهدية وبيانات القرار",
+    "رسم الرئيسية والمجموعة والمنتج على الكمبيوتر والهاتف بهوية مُسدل",
+    "تنفيذ النموذج HTML/CSS/JS ومكوناته وحالاته",
+    "تكييف Twilight وربط سلة في متجر تجريبي",
+    "تحقق بيانات المنتجات والطلب ثم إطلاق البيع"
+  ]
+}

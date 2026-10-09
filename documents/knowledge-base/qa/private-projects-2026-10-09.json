@@ -1,0 +1,135 @@
+{
+  "checked_at": "2026-10-09T08:47:20.627439+00:00",
+  "audience": "private",
+  "anonymous_checks": [
+    {
+      "kind": "Semsaam Site",
+      "url": "https://semsaam-knowledge-base.ahmadsabbah81.chatgpt.site/",
+      "status": 401,
+      "anonymous_denied": true,
+      "login_prompt": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "kind": "Semsaam Site",
+      "url": "https://semsaam-knowledge-base.ahmadsabbah81.chatgpt.site/styles.css",
+      "status": 401,
+      "anonymous_denied": true,
+      "login_prompt": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "kind": "Semsaam Site",
+      "url": "https://semsaam-knowledge-base.ahmadsabbah81.chatgpt.site/pricing.js",
+      "status": 401,
+      "anonymous_denied": true,
+      "login_prompt": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "kind": "Semsaam Site",
+      "url": "https://semsaam-knowledge-base.ahmadsabbah81.chatgpt.site/downloads/brand.pdf",
+      "status": 401,
+      "anonymous_denied": true,
+      "login_prompt": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "kind": "Semsaam Site",
+      "url": "https://semsaam-knowledge-base.ahmadsabbah81.chatgpt.site/downloads/supplier-quote-updated-2026-10-09.pdf",
+      "status": 401,
+      "anonymous_denied": true,
+      "login_prompt": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "kind": "Semsaam Site",
+      "url": "https://semsaam-knowledge-base.ahmadsabbah81.chatgpt.site/data/deskmat-market-2026-10-09.json",
+      "status": 401,
+      "anonymous_denied": true,
+      "login_prompt": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "kind": "Semsaam Site",
+      "url": "https://semsaam-knowledge-base.ahmadsabbah81.chatgpt.site/gallery/brand-01.png",
+      "status": 401,
+      "anonymous_denied": true,
+      "login_prompt": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "kind": "Semsaam Site",
+      "url": "https://semsaam-knowledge-base.ahmadsabbah81.chatgpt.site/website/ar/index.html",
+      "status": 401,
+      "anonymous_denied": true,
+      "login_prompt": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "kind": "Semsaam Site",
+      "url": "https://semsaam-knowledge-base.ahmadsabbah81.chatgpt.site/website/assets/videos/material-beauty-seedance.mp4",
+      "status": 401,
+      "anonymous_denied": true,
+      "login_prompt": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "kind": "GitHub repository",
+      "url": "https://github.com/AhmadS-cell/semsaam-knowledge-base",
+      "status": 404,
+      "anonymous_denied": true,
+      "login_prompt": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "kind": "GitHub repository",
+      "url": "https://github.com/AhmadS-cell/semsaam-team-guide",
+      "status": 404,
+      "anonymous_denied": true,
+      "login_prompt": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "kind": "GitHub repository",
+      "url": "https://github.com/AhmadS-cell/alboshoot-market-report",
+      "status": 404,
+      "anonymous_denied": true,
+      "login_prompt": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "kind": "Disabled Pages",
+      "url": "https://ahmads-cell.github.io/alboshoot-market-report/index.html",
+      "status": 404,
+      "anonymous_denied": true,
+      "login_prompt": false,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "kind": "Disabled Pages",
+      "url": "https://ahmads-cell.github.io/alboshoot-market-report/supplier-review-2026-10-06/index.html",
+      "status": 404,
+      "anonymous_denied": true,
+      "login_prompt": false,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "kind": "Disabled Pages",
+      "url": "https://ahmads-cell.github.io/alboshoot-market-report/homepage-preview-v5/index.html",
+      "status": 404,
+      "anonymous_denied": true,
+      "login_prompt": false,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "kind": "Disabled Pages",
+      "url": "https://ahmads-cell.github.io/semsaam-team-guide/",
+      "status": 404,
+      "anonymous_denied": true,
+      "login_prompt": false,
+      "content_type": "text/html; charset=utf-8"
+    }
+  ],
+  "all_anonymous_denied": true
+}

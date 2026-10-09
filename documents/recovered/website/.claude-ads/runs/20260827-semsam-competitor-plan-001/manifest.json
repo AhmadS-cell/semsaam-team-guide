@@ -1,0 +1,58 @@
+{
+  "run_id": "20260827-semsam-competitor-plan-001",
+  "created_at": "2026-08-27T00:00:00+03:00",
+  "workflow": "ads_plan_competitor",
+  "objective": "Assess current Saudi gaming desk mat competition, project viability, and actions to improve launch success.",
+  "business_model": "Saudi Arabia direct-to-consumer ecommerce",
+  "offer": "Full desk setup bundle priced at SAR 190 including VAT and delivery",
+  "geography": "Saudi Arabia",
+  "currency": "SAR",
+  "primary_conversion": "Accepted paid order",
+  "planning_economics": {
+    "capital_sar": 60000,
+    "inventory_packages": 1000,
+    "realistic_sales_target": 900,
+    "target_cac_sar": 30,
+    "maximum_review_cac_sar": 40,
+    "estimated_operating_profit_sar": 42620.03
+  },
+  "authority": "analysis_only",
+  "data_classification": "public_market_research_and_user_supplied_financial_model",
+  "retention": {
+    "minimum": "run artifacts only",
+    "deadline": "2027-08-27",
+    "encryption_evidence": "workspace-managed storage",
+    "access_roles": ["workspace owner", "Codex"],
+    "deletion_verification": "workspace owner review",
+    "incident_owner_channel": "workspace owner"
+  },
+  "assumptions": [
+    "No live ad-account data was supplied.",
+    "Market findings are point-in-time public listings and official brand/store pages.",
+    "The bundle is retail-ready as one warehouse SKU."
+  ],
+  "market_snapshot": {
+    "retrieved_at": "2026-08-27",
+    "commodity_range_sar": "29-50",
+    "local_design_range_sar": "41-99",
+    "direct_three_piece_bundle_sar": "69 sale / 120 list",
+    "premium_single_mat_range_sar": "99-239",
+    "project_bundle_sar": 190
+  },
+  "decision": {
+    "status": "conditional_go",
+    "reason": "Healthy modeled contribution at SAR 190, but willingness-to-pay and differentiation versus a SAR 69-120 direct bundle are unproven.",
+    "pre_purchase_gate": "Validate real samples and 50-100 accepted paid preorders/orders at CAC <= SAR 35; review at SAR 35-40; do not place the full order if mature CAC remains above SAR 40."
+  },
+  "sources": [
+    "https://www.vision2030.gov.sa/media/svtpwvei/nges_strategy_en.pdf",
+    "https://www.stats.gov.sa/documents/20117/2435267/Wholesale%2Band%2BRetail%2BTrade%2BStatistics-Q3-%2B2025%2BEN.pdf/b93b2a7a-482c-0c7d-28a3-1f047904cd77",
+    "https://saudigamerz.com/product/%D8%AB%D9%8A%D8%B1%D9%85%D9%88-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D9%85%D8%A7%D9%88%D8%B3-%D8%A8%D8%A7%D8%AF-%D8%AA%D8%B1%D8%A7%D8%AB%D9%8A%D8%A9-%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81%D9%8A%D8%A9-tm/",
+    "https://www.noon.com/saudi-en/large-gaming-mouse-pad-900-400mm-non-slip-thicken-high-quality-rubber-base-for-office-home-mat-desk-keyboard-mouse-pads-black/Z2E6B0EAAA904EE337F3EZ/p/",
+    "https://www.jarir.com/sa-en/hyperx-pulsefire-mouse-accessories-581421.html",
+    "https://www.geekay.com/saudi_en/logitech-g840-xl-gaming-mousepad",
+    "https://saudi.microless.com/product/steelseries-qck-heavy-gaming-surface-xxl-thick-cloth-best-selling-mouse-pad-of-all-time-sized-to-cover-desks-67500/",
+    "https://mc.gov.sa/en/mediacenter/News/Pages/18-08-25-01.aspx"
+  ],
+  "status": "complete"
+}

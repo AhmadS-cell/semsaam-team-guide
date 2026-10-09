@@ -1,0 +1,70 @@
+{
+  "frames": [
+    {
+      "id": "33470:797",
+      "name": "header",
+      "x": "1340",
+      "y": "-1958",
+      "width": "1480",
+      "height": "224"
+    },
+    {
+      "id": "33489:911",
+      "name": "home_page",
+      "x": "3225",
+      "y": "-1518",
+      "width": "1440",
+      "height": "7107"
+    },
+    {
+      "id": "33489:1241",
+      "name": "Product List",
+      "x": "4909",
+      "y": "-1518",
+      "width": "1440",
+      "height": "4124"
+    },
+    {
+      "id": "33489:1787",
+      "name": "Product List-a",
+      "x": "6593",
+      "y": "-1518",
+      "width": "1440",
+      "height": "4079"
+    },
+    {
+      "id": "33489:2317",
+      "name": "Product Details",
+      "x": "8145",
+      "y": "-1518",
+      "width": "1440",
+      "height": "2823"
+    }
+  ],
+  "screenshots": [
+    {
+      "file": "knowledge-base/evidence/figma-live-home.png",
+      "source_file_key": "g2zn4cpAUMkXmniTzj0Cyp",
+      "source_node_id": "33489:911",
+      "retrieved_on": "2026-10-08",
+      "sha256": "e697a2be17ab3cd97cbb2e7e89afe57e2ba5e973a9bdf58d05d7abd67fdf0bca",
+      "bytes": 1116325
+    },
+    {
+      "file": "knowledge-base/evidence/figma-live-product-list.png",
+      "source_file_key": "g2zn4cpAUMkXmniTzj0Cyp",
+      "source_node_id": "33489:1241",
+      "retrieved_on": "2026-10-08",
+      "sha256": "b44717932bc51cccff7316618718564dd8806668758b69b7b3f336e0142ad7e2",
+      "bytes": 1382399
+    },
+    {
+      "file": "knowledge-base/evidence/figma-live-product-details.png",
+      "source_file_key": "g2zn4cpAUMkXmniTzj0Cyp",
+      "source_node_id": "33489:2317",
+      "retrieved_on": "2026-10-08",
+      "sha256": "40979e8047bf72a9b3d22ea3c84126f2ad8842a5af85947c61ac4203a3a2bffb",
+      "bytes": 1801085
+    }
+  ]
+}

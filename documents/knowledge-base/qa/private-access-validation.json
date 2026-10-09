@@ -1,0 +1,60 @@
+{
+  "origin": "https://semsaam-knowledge-base.ahmadsabbah81.chatgpt.site",
+  "anonymous_access_checks": [
+    {
+      "path": "/",
+      "status": 401,
+      "redirect_host": null,
+      "redirect_path": "",
+      "content_type": "text/html; charset=utf-8",
+      "x_robots_tag": null,
+      "protected": true
+    },
+    {
+      "path": "/styles.css",
+      "status": 401,
+      "redirect_host": null,
+      "redirect_path": "",
+      "content_type": "text/html; charset=utf-8",
+      "x_robots_tag": null,
+      "protected": true
+    },
+    {
+      "path": "/downloads/brand.pdf",
+      "status": 401,
+      "redirect_host": null,
+      "redirect_path": "",
+      "content_type": "text/html; charset=utf-8",
+      "x_robots_tag": null,
+      "protected": true
+    },
+    {
+      "path": "/gallery/brand-01.png",
+      "status": 401,
+      "redirect_host": null,
+      "redirect_path": "",
+      "content_type": "text/html; charset=utf-8",
+      "x_robots_tag": null,
+      "protected": true
+    },
+    {
+      "path": "/website/ar/index.html",
+      "status": 401,
+      "redirect_host": null,
+      "redirect_path": "",
+      "content_type": "text/html; charset=utf-8",
+      "x_robots_tag": null,
+      "protected": true
+    },
+    {
+      "path": "/evidence/figma-live-home.png",
+      "status": 401,
+      "redirect_host": null,
+      "redirect_path": "",
+      "content_type": "text/html; charset=utf-8",
+      "x_robots_tag": null,
+      "protected": true
+    }
+  ],
+  "all_protected": true
+}

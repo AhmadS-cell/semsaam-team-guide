@@ -1,0 +1,65 @@
+{
+  "verified_original_files": 273,
+  "original_hash_mismatches": [],
+  "missing_document_links": [],
+  "last_sections": [
+    {
+      "file": "README.md",
+      "last_section": "المصادر"
+    },
+    {
+      "file": "knowledge-base/brand.md",
+      "last_section": "المصادر"
+    },
+    {
+      "file": "knowledge-base/design-system.md",
+      "last_section": "المصادر"
+    },
+    {
+      "file": "knowledge-base/deskmat-market-2026-10-09.md",
+      "last_section": "المصادر"
+    },
+    {
+      "file": "knowledge-base/homepage-ar-audit.md",
+      "last_section": "المصادر"
+    },
+    {
+      "file": "knowledge-base/homepage-ar-followup.md",
+      "last_section": "المصادر"
+    },
+    {
+      "file": "knowledge-base/hosting.md",
+      "last_section": "المصادر"
+    },
+    {
+      "file": "knowledge-base/open-decisions.md",
+      "last_section": "المصادر"
+    },
+    {
+      "file": "knowledge-base/operations.md",
+      "last_section": "المصادر"
+    },
+    {
+      "file": "knowledge-base/privacy.md",
+      "last_section": "المصادر"
+    },
+    {
+      "file": "knowledge-base/products.md",
+      "last_section": "المصادر"
+    },
+    {
+      "file": "knowledge-base/recovery-report.md",
+      "last_section": "المصادر"
+    },
+    {
+      "file": "knowledge-base/salla-preparation.md",
+      "last_section": "المصادر"
+    },
+    {
+      "file": "knowledge-base/website.md",
+      "last_section": "المصادر"
+    }
+  ],
+  "figma_top_level_frames": 5,
+  "live_figma_screenshots": 3
+}

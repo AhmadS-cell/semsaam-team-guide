@@ -1,0 +1,12 @@
+[
+  {
+    "font": "Noto Sans Arabic arabic",
+    "source": "https://fonts.gstatic.com/s/notosansarabic/v33/nwpCtLGrOAZMl5nJ_wfgRg3DrWFZWsnVBJ_sS6tlqHHFlj4wv4r4xA.woff2",
+    "file": "fonts\\noto-arabic.woff2"
+  },
+  {
+    "font": "Rubik latin",
+    "source": "https://fonts.gstatic.com/s/rubik/v31/iJWKBXyIfDnIV7nBrXw.woff2",
+    "file": "fonts\\rubik-latin.woff2"
+  }
+]

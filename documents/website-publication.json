@@ -6,12 +6,18 @@
   "url": "https://semsaam-knowledge-base.ahmadsabbah81.chatgpt.site",
   "status": "succeeded",
   "commit_sha": "140a8ee5da9689a438bbafe18df985f1877ac4e3",
-  "audience": "public",
-  "anonymous_access_verified": true,
+  "audience": "custom",
+  "anonymous_access_verified": false,
   "noindex_http_headers_verified": true,
   "asset_storage": "private R2 served only through noindex Worker",
   "uploaded_assets": 220,
   "temporary_upload_secret_removed": true,
   "env_set_revision": 14,
-  "change": "Install brand favicon B across knowledge base and website previews; synchronize current project data, market analysis and video download links"
+  "change": "Owner required private login for Semsaam and Musdal on 9 October 2026; Site access narrowed to owner only and public Pages disabled",
+  "anonymous_access_denied_verified": true,
+  "access_policy_revision": 3,
+  "allowed_viewers": "owner only",
+  "external_visitor_count": 0,
+  "source_change": "Install brand favicon B across knowledge base and website previews; synchronize current project data, market analysis and video download links",
+  "access_verification": "knowledge-base/qa/private-projects-2026-10-09.json"
 }

@@ -1,4 +1,4 @@
-# دليل فريق سمصام · Team Guide
+# دليل فريق صمصام · Team Guide
 
 ## [افتح الصفحة الرئيسية للدليل](https://ahmads-cell.github.io/semsaam-team-guide/index.html#overview)
 

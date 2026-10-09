@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-09T08:47:20.627439+00:00",
+  "checked_at": "2026-10-09T08:56:20.832585+00:00",
   "audience": "private",
   "anonymous_checks": [
     {
@@ -97,6 +97,22 @@
       "anonymous_denied": true,
       "login_prompt": true,
       "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "kind": "Raw GitHub file",
+      "url": "https://raw.githubusercontent.com/AhmadS-cell/semsaam-team-guide/main/index.html",
+      "status": 404,
+      "anonymous_denied": true,
+      "login_prompt": false,
+      "content_type": "text/plain; charset=utf-8"
+    },
+    {
+      "kind": "Raw GitHub file",
+      "url": "https://raw.githubusercontent.com/AhmadS-cell/alboshoot-market-report/main/index.html",
+      "status": 404,
+      "anonymous_denied": true,
+      "login_prompt": false,
+      "content_type": "text/plain; charset=utf-8"
     },
     {
       "kind": "Disabled Pages",

@@ -3,7 +3,24 @@
   "market": "Saudi Arabia and Gulf; Saudi prices/model",
   "owner_target": {
     "margin": 0.8,
-    "meaning": "80% margin from selling price, confirmed in chat; show VAT-exclusive and customer-price denominators separately"
+    "meaning": "Product margin after landed warehouse product cost only; clarified by owner in chat on 2026-10-09. Selling price excluding VAT; VAT shown separately.",
+    "included_costs": [
+      "product purchase",
+      "freight to warehouse",
+      "customs and clearance",
+      "non-recovered import taxes in landed quote"
+    ],
+    "excluded_costs": [
+      "storage",
+      "order fulfilment",
+      "customer delivery",
+      "advertising CAC",
+      "payment fees",
+      "returns",
+      "fixed overheads"
+    ],
+    "formula": "(product_selling_price_ex_vat - warehouse_landed_cost) / product_selling_price_ex_vat",
+    "confirmed_at": "2026-10-09"
   },
   "evidence": {
     "attached_pdf": "evidence/link-bahr-updated-2026-10-09.pdf",
@@ -144,13 +161,13 @@
       "contribution_margin_ex_vat": 0.2194709302325582,
       "contribution_margin_customer_price": 0.19084428715874627,
       "goods_margin_ex_vat": 0.8696220930232559,
-      "goods_only_price_for_80_ex_vat": 84.09375,
-      "price_for_80_ex_vat": 700.666030534351,
-      "price_for_80_customer_price": 8344.295454545463,
       "break_even_cac_sar": 54.61891304347827,
       "cac_sar": 30.0,
       "cvr": 0.04,
-      "cpc_sar": 1.2
+      "cpc_sar": 1.2,
+      "goods_only_price_for_80_net": 73.125,
+      "goods_only_price_for_80_incl_vat": 84.09375,
+      "owner_target_achieved": true
     },
     "bundle": {
       "price_sar": 199,
@@ -162,13 +179,13 @@
       "contribution_margin_ex_vat": 0.31744755025125637,
       "contribution_margin_customer_price": 0.2760413480445708,
       "goods_margin_ex_vat": 0.8263081030150754,
-      "goods_only_price_for_80_ex_vat": 172.82343749999998,
-      "price_for_80_ex_vat": 932.0376908396945,
-      "price_for_80_customer_price": 11099.721590909103,
       "break_even_cac_sar": 84.93222826086959,
       "cac_sar": 30.0,
       "cvr": 0.04,
-      "cpc_sar": 1.2
+      "cpc_sar": 1.2,
+      "goods_only_price_for_80_net": 150.28124999999997,
+      "goods_only_price_for_80_incl_vat": 172.82343749999998,
+      "owner_target_achieved": true
     }
   },
   "sensitivity": [

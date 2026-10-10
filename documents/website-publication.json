@@ -1,11 +1,11 @@
 {
   "project_id": "appgprj_6ac78d15dbbc81919ec3b0e642cc80f0",
-  "version_id": "appgprj_6ac78d15dbbc81919ec3b0e642cc80f0~appgver_f4616381482c81919acf5967a7dddb97",
-  "version_number": 17,
-  "deployment_id": "appgdep_6aca2fad96548191bea8d025a38988b8",
+  "version_id": "appgprj_6ac78d15dbbc81919ec3b0e642cc80f0~appgver_058029692c50819191b61140970edd6e",
+  "version_number": 18,
+  "deployment_id": "appgdep_6aca338701b08191ba83663f55542759",
   "url": "https://semsaam-knowledge-base.ahmadsabbah81.chatgpt.site",
   "status": "succeeded",
-  "commit_sha": "633a8a37c5ba743b2dfd963cbf7ae5db321044db",
+  "commit_sha": "db8b90bd86385eb9624bd167f21cca94bb9f23a9",
   "audience": "custom",
   "allowed_viewers": "owner only",
   "external_visitor_count": 0,
@@ -16,8 +16,8 @@
   "asset_storage": "private R2 served through authenticated Sites dispatch and noindex Worker",
   "uploaded_assets": 310,
   "temporary_upload_secret_removed": true,
-  "env_set_revision": 28,
-  "change": "White compact sad brand mark inside purple circle with Arabic Rubik wordmark; favicon A trial",
+  "env_set_revision": 30,
+  "change": "Exact original header logo mark with existing Arabic Rubik wordmark; favicon A separate",
   "sections": 14,
   "full_documents": 17,
   "access_verification": "knowledge-base/qa/private-team-guide-live-2026-10-09.json",
@@ -25,5 +25,5 @@
   "anonymous_checks_verified": 6,
   "live_browser_navigation_verified": true,
   "approved_arabic_name": "صمصام",
-  "latest_change_verification": "knowledge-base/qa/private-round-logo-2026-10-10.json"
+  "latest_change_verification": "knowledge-base/qa/private-correct-logo-2026-10-10.json"
 }

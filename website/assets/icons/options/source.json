@@ -6,12 +6,12 @@
     1
   ],
   "method": "Exact PDF vector extraction; source counter preserved. A rotates and scales the full mark; B clips the blade at x=993 without redrawing the Arabic mark. Palette-only colors. ",
-  "active_option": "A",
+  "active_option": "B",
   "installed_date": "2026-10-10",
-  "selection_basis": "Owner requested trying the full sword matching the Arabic website logo mark.",
+  "selection_basis": "Owner explicitly selected option B for all Team Guide and storefront pages; change favicon only.",
   "previous_selection": {
-    "active_option": "B",
-    "installed_date": "2026-10-09",
-    "selection_basis": "Owner requested installing one of the existing candidates; B chosen for compact browser-tab legibility."
+    "active_option": "A",
+    "installed_date": "2026-10-10",
+    "selection_basis": "Owner requested trying the full sword matching the Arabic website logo mark."
   }
 }

@@ -1,6 +1,6 @@
 {
   "uploaded_assets": 310,
-  "total_bytes": 186820820,
+  "total_bytes": 186843246,
   "assets": [
     {
       "path": "/.nojekyll",
@@ -16,7 +16,7 @@
     },
     {
       "path": "/build-manifest.json",
-      "sha256": "c179ac994cd2a0db529b130667c1bec00f29f76a8f326c2f843e24d2e5444282",
+      "sha256": "c7d436f77d8353dced98129955e4aa90b25c62a123483be3b4324d711107822b",
       "size": 35859,
       "storage": "uploaded hash-verified object"
     },
@@ -316,8 +316,8 @@
     },
     {
       "path": "/documents/knowledge-base/qa/hosted-asset-upload.json",
-      "sha256": "55183187cad780661dc79cbd035d1f72b955d20df8e22e7fdd1a179cb7146395",
-      "size": 70070,
+      "sha256": "e787a7a7f3dc37c528244b6259eb496e9652ab0eefb52bc68c1f3401bb9a6af7",
+      "size": 70798,
       "storage": "uploaded hash-verified object"
     },
     {
@@ -528,12 +528,12 @@
       "path": "/documents/storefront/assets/icons/options/source.json",
       "sha256": "3a48ad2cbab2a344cd0d365c8c77564047f6600bba57802e04f55bc5e0b5daf8",
       "size": 698,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/documents/storefront/assets/icons/semsaam-logo-ar-source.json",
-      "sha256": "a4929d087c47bbc5d515d50cba049186f251dd343d11305cf607e5fb68d6460d",
-      "size": 683,
+      "sha256": "766d674eeb2ce2d7e890bfc0480372256878e240762381c10712237fe1e35a48",
+      "size": 844,
       "storage": "uploaded hash-verified object"
     },
     {
@@ -544,8 +544,8 @@
     },
     {
       "path": "/documents/storefront/assets/icons/semsaam-logo-ar.svg",
-      "sha256": "f49d94c3a712c8a979f7b9edea94b568c2f59f82bb68dc0ef18712d05365f3e1",
-      "size": 12363,
+      "sha256": "6c9cb115dc875a217cc8916e1237e2c292e26788a09c44bae3ae8bc511d9499a",
+      "size": 22557,
       "storage": "uploaded hash-verified object"
     },
     {
@@ -562,8 +562,8 @@
     },
     {
       "path": "/documents/website-publication.json",
-      "sha256": "73a7a61c3ae320be341d96a778403ad360b0f4a1b574e96f8855383d64fa5f3b",
-      "size": 1355,
+      "sha256": "e27cd3b129bf8c8aaec6d1621ad35377a71767933cb5284912708d8ea7fdb03f",
+      "size": 1350,
       "storage": "uploaded hash-verified object"
     },
     {
@@ -1168,8 +1168,8 @@
     },
     {
       "path": "/index.html",
-      "sha256": "1c9d83b992b5892a18e5166155f4057710adc0a3093238ccb9437e4eb28d2894",
-      "size": 269403,
+      "sha256": "7c9824a6d11bffef3c6ca4bbc4d50220d679af5ab70d008b5889302c4141a157",
+      "size": 270378,
       "storage": "uploaded hash-verified object"
     },
     {
@@ -1216,20 +1216,20 @@
     },
     {
       "path": "/website/ar/index.html",
-      "sha256": "0028f3417bf5af155af18141495e471ff814d1443813a3adfdf162f595520ac3",
-      "size": 19551,
+      "sha256": "3312189c2f5e96abfb47b3103cedc25f6a6abd25700903464d66200f6bd2b4a7",
+      "size": 19557,
       "storage": "uploaded hash-verified object"
     },
     {
       "path": "/website/ar/product-details.html",
-      "sha256": "90ddbacbf3ebff1502dce18b8f611329f96a01dc29b674e48b5214c796025584",
-      "size": 8002,
+      "sha256": "dce630b926ee16a4766c546b4273b1e412f0cc74016fbbb090efb4f4a0abf7de",
+      "size": 8008,
       "storage": "uploaded hash-verified object"
     },
     {
       "path": "/website/ar/product-list.html",
-      "sha256": "b988e4fdd43fa776aaf438a10cd502cb19a0fa70fae1e9b6d83455787482a8da",
-      "size": 9734,
+      "sha256": "84804987f0269be5167e6ae65176c727e952a17f56b9729036e7bee6194ec939",
+      "size": 9740,
       "storage": "uploaded hash-verified object"
     },
     {
@@ -1306,8 +1306,8 @@
     },
     {
       "path": "/website/assets/icons/semsaam-logo-ar-source.json",
-      "sha256": "a4929d087c47bbc5d515d50cba049186f251dd343d11305cf607e5fb68d6460d",
-      "size": 683,
+      "sha256": "766d674eeb2ce2d7e890bfc0480372256878e240762381c10712237fe1e35a48",
+      "size": 844,
       "storage": "existing verified object"
     },
     {
@@ -1324,8 +1324,8 @@
     },
     {
       "path": "/website/assets/icons/semsaam-logo-ar.svg",
-      "sha256": "f49d94c3a712c8a979f7b9edea94b568c2f59f82bb68dc0ef18712d05365f3e1",
-      "size": 12363,
+      "sha256": "6c9cb115dc875a217cc8916e1237e2c292e26788a09c44bae3ae8bc511d9499a",
+      "size": 22557,
       "storage": "existing verified object"
     },
     {

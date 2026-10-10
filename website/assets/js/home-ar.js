@@ -77,6 +77,7 @@
       materialPlay.disabled = true;
       materialPlay.textContent = 'جارٍ التحميل…';
       $('[data-material-status]').textContent = '';
+      $('[data-material-status]').hidden = true;
       try {
         if (!materialVideo.getAttribute('src')) materialVideo.src = materialVideo.dataset.src;
         await materialVideo.play();
@@ -84,7 +85,8 @@
         materialPlay.textContent = 'Ⅱ إيقاف الحركة';
       } catch {
         resetMaterial();
-        $('[data-material-status]').textContent = ' · تعذّر تشغيل الحركة. يمكنك مشاهدة الصورة والتفاصيل.';
+        $('[data-material-status]').hidden = false;
+        $('[data-material-status]').textContent = 'تعذّر تشغيل الحركة. يمكنك مشاهدة الصورة والتفاصيل.';
       } finally { materialPlay.disabled = false; }
     });
     materialVideo.addEventListener('pause', resetMaterial);
@@ -127,7 +129,7 @@
       });
       results.append(link);
     });
-    $('[data-search-status]').textContent = matches.length === 1 ? 'منتج واحد في المعاينة' : matches.length ? `${matches.length} منتجات في المعاينة` : 'ما لقينا منتج بهذا الاسم. جرّب «ديسك مات» أو «راحة المعصم».';
+    $('[data-search-status]').textContent = matches.length === 1 ? 'منتج واحد' : matches.length ? `${matches.length} منتجات` : 'ما لقينا منتج بهذا الاسم. جرّب «ديسك مات» أو «راحة المعصم».';
   };
   $('[data-search-open]').addEventListener('click', () => { closeMenu(); input.value = ''; render(); dialog.showModal(); input.focus(); });
   $('[data-search-close]').addEventListener('click', () => dialog.close());

@@ -1,6 +1,6 @@
 {
-  "uploaded_assets": 286,
-  "total_bytes": 184818180,
+  "uploaded_assets": 288,
+  "total_bytes": 184967687,
   "assets": [
     {
       "path": "/.nojekyll",
@@ -16,8 +16,8 @@
     },
     {
       "path": "/build-manifest.json",
-      "sha256": "35232730baeca167a37c4b5ff1f14ecde5cac620aeb3273fb869c0393f83f1cf",
-      "size": 32613,
+      "sha256": "6a9d558359b2fa3c0eeebfd1ea6fff0a021782ec0d4e9e94add66c62ab5dd137",
+      "size": 32898,
       "storage": "uploaded hash-verified object"
     },
     {
@@ -316,8 +316,8 @@
     },
     {
       "path": "/documents/knowledge-base/qa/hosted-asset-upload.json",
-      "sha256": "c4e97c8113917b2c4f34f1fc19c1a903ef6ae06b3d71920c90ba47316fac2f31",
-      "size": 62921,
+      "sha256": "318ea91fb537215b0bfef37ed7d22e33591f7f8118d529c2c9585e807d715255",
+      "size": 64987,
       "storage": "uploaded hash-verified object"
     },
     {
@@ -331,6 +331,18 @@
       "sha256": "ac633d1f7469f6b5ebc4e8297fcbfd58b04e0b5906a39a6b98905dbe7bea3636",
       "size": 57833,
       "storage": "existing verified object"
+    },
+    {
+      "path": "/documents/knowledge-base/qa/language-button-2026-10-10/desktop.png",
+      "sha256": "3e3f4d3c1159ef38cdfbfd9ddb7a94d7b0253b452f08642ec0888935072061d3",
+      "size": 102487,
+      "storage": "uploaded hash-verified object"
+    },
+    {
+      "path": "/documents/knowledge-base/qa/language-button-2026-10-10/mobile.png",
+      "sha256": "38e3b77b10fb7253b5ff11f0d093145a5d187b3d62bcabe97a7569ae8d6c0b0c",
+      "size": 43770,
+      "storage": "uploaded hash-verified object"
     },
     {
       "path": "/documents/knowledge-base/qa/material-video-2026-10-09/contact-sheet.jpg",
@@ -354,37 +366,37 @@
       "path": "/documents/knowledge-base/qa/mobile-hero-2026-10-10/comparison.png",
       "sha256": "c14cc148edc83a7f7b2de9f35c22adf571dde2f12ea4a707859bb78afac7faab",
       "size": 802464,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/documents/knowledge-base/qa/mobile-hero-2026-10-10/desktop-after.png",
       "sha256": "3982a05d3f83fde8074e2b90a4f38bee053dd3154414583dcb60cb7194633c92",
       "size": 102291,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/documents/knowledge-base/qa/mobile-hero-2026-10-10/desktop-before.png",
       "sha256": "f88a13a818cadef7ce34fcc95a8a5d48ca110b3269c2e9c5596944f187cbef40",
       "size": 102291,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/documents/knowledge-base/qa/mobile-hero-2026-10-10/mobile-320.png",
       "sha256": "3ae7149ec103f61dcc20d37c14220ab2e49a689b6f0d7a4477ce013755f0f251",
       "size": 33432,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/documents/knowledge-base/qa/mobile-hero-2026-10-10/mobile-after.png",
       "sha256": "00a839474756621a7edd585f95193ab1762ea5a4b0eaf8a65099a26ec964fd22",
       "size": 43648,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/documents/knowledge-base/qa/mobile-hero-2026-10-10/selected-option-3.png",
       "sha256": "16708869ba54123bdedca194b8e12e2314486e78b0eae44308c2fcf5a0b749eb",
       "size": 2077375,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/documents/knowledge-base/qa/private-access-validation.json",
@@ -408,7 +420,7 @@
       "path": "/documents/knowledge-base/qa/site-validation.json",
       "sha256": "d976703af5bde8affc0f75419fdc8fc8f9231255d8a5c38029ff7e4803386371",
       "size": 1142,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/documents/recovered/brand/Semsaam Brand Palette.pdf",
@@ -492,7 +504,7 @@
       "path": "/documents/storefront/assets/images/hero-mobile-product-first.webp",
       "sha256": "ea3b657702f2da849162c2b1edcfe35c8e82bbde010d670908f16041ec90de57",
       "size": 116958,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/documents/storefront/salla-home-mapping.json",
@@ -502,8 +514,8 @@
     },
     {
       "path": "/documents/website-publication.json",
-      "sha256": "b637683e7537e1de4dfc6ccf8ac3974a94fe03523fd3e92da93cc39165a3d786",
-      "size": 1366,
+      "sha256": "3427499bd3fc91932a7ed8f8aa901bfe7c55ad1726626be9aa14d221ca74d1b8",
+      "size": 1355,
       "storage": "uploaded hash-verified object"
     },
     {
@@ -1108,8 +1120,8 @@
     },
     {
       "path": "/index.html",
-      "sha256": "6bedc0cc074cbcb704b1b9129bc6af060be3da132c3d8b2967e4e45bc3161295",
-      "size": 254875,
+      "sha256": "95253c255198544dba09bb115e12dda3db6ddd2152fd0baa73fc5f931da89bd4",
+      "size": 255761,
       "storage": "uploaded hash-verified object"
     },
     {
@@ -1156,14 +1168,14 @@
     },
     {
       "path": "/website/ar/index.html",
-      "sha256": "bbfed539a7a05f5847935a30260bee871ff410973b3cf7f9ba4a0a9bdecfe8c9",
-      "size": 17391,
+      "sha256": "14fc6a79000d2b254cdb5ad5261234c50557473fa51165912b2b783f9eb84161",
+      "size": 17403,
       "storage": "uploaded hash-verified object"
     },
     {
       "path": "/website/ar/product-details.html",
-      "sha256": "689a37502ef9eaed9dda78238e6dc0749517a28576fe6ad42d37fa5e74d76c83",
-      "size": 8592,
+      "sha256": "9c60b6548534244175de7b83a4fb162f784d81f019acb6339bdb396c04247777",
+      "size": 8604,
       "storage": "uploaded hash-verified object"
     },
     {
@@ -1176,7 +1188,7 @@
       "path": "/website/assets/css/home-ar.css",
       "sha256": "a56379fca7b9df65f1b492b445aa4c6e8ff0c659050f14029f0b4c13670eb1c4",
       "size": 19944,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/website/assets/css/product-ar.css",
@@ -1596,7 +1608,7 @@
       "path": "/website/assets/js/home-ar.js",
       "sha256": "d758962528cb13446e146892bb9f0d329f75c213bd2fc47dcfd63bc891a9711a",
       "size": 7899,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/website/assets/js/main.js",

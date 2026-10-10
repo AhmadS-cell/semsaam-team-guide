@@ -1,0 +1,82 @@
+[
+  {
+    "source": "home-hero-product-detail.png",
+    "output": "home-hero-product-detail.webp",
+    "source_bytes": 2677293,
+    "output_bytes": 233868,
+    "dimensions": [
+      1408,
+      881
+    ]
+  },
+  {
+    "source": "preorder-design-proof.png",
+    "output": "preorder-design-proof.webp",
+    "source_bytes": 2345409,
+    "output_bytes": 178510,
+    "dimensions": [
+      1408,
+      881
+    ]
+  },
+  {
+    "source": "home-material-closeup.png",
+    "output": "home-material-closeup.webp",
+    "source_bytes": 2423915,
+    "output_bytes": 239972,
+    "dimensions": [
+      1408,
+      1056
+    ]
+  },
+  {
+    "source": "hero-pro-control-live.png",
+    "output": "hero-pro-control-live.webp",
+    "source_bytes": 2475604,
+    "output_bytes": 175522,
+    "dimensions": [
+      1408,
+      881
+    ]
+  },
+  {
+    "source": "hero-comfort-rest-live.png",
+    "output": "hero-comfort-rest-live.webp",
+    "source_bytes": 2605355,
+    "output_bytes": 227314,
+    "dimensions": [
+      1408,
+      881
+    ]
+  },
+  {
+    "source": "hero-care-kit-live.png",
+    "output": "hero-care-kit-live.webp",
+    "source_bytes": 2423255,
+    "output_bytes": 180320,
+    "dimensions": [
+      1408,
+      881
+    ]
+  },
+  {
+    "source": "hero-comfort-rest-detail.png",
+    "output": "hero-comfort-rest-detail.webp",
+    "source_bytes": 2516397,
+    "output_bytes": 212262,
+    "dimensions": [
+      1408,
+      881
+    ]
+  },
+  {
+    "source": "hero-care-kit-detail.png",
+    "output": "hero-care-kit-detail.webp",
+    "source_bytes": 2403480,
+    "output_bytes": 169184,
+    "dimensions": [
+      1408,
+      881
+    ]
+  }
+]

@@ -1,13 +1,20 @@
 {
   "arabic_name": "صمصام",
-  "status": "owner requested white compact sad mark in a colored circle with existing Arabic wordmark, 10 October 2026",
+  "status": "owner corrected logo: use exact full original header mark displayed in GitHub Team Guide, 10 October 2026",
   "wordmark_font": "Rubik Arabic 650, OFL",
   "font_sha256": "f5052e4870bf211fc22df5b85e791a292a77b9baef8cef1dc5a8e62a783ea1e0",
-  "symbol_source": "recovered/brand/Semsaam Brand Palette.pdf page 1, original curves 2 and 1; same compact crop as favicon B",
-  "symbol_container": "purple #900DFF circle; new website composition, not a recovered circular master",
-  "svg_sha256": "f49d94c3a712c8a979f7b9edea94b568c2f59f82bb68dc0ef18712d05365f3e1",
+  "symbol_source": "recovered/website/assets/icons/semsaam-header-logo.png",
+  "source_sha256": "eecc13454bb11b79fc15c8e29bf259ce081b3b249ea15ce05bafdbfe8e718a2a",
+  "symbol_region": [
+    0,
+    26,
+    132,
+    44
+  ],
+  "symbol_rendering": "original PNG bytes embedded unchanged; viewport reveals full mark and excludes Latin name; no circle, recoloring, redraw or favicon geometry",
+  "svg_sha256": "6c9cb115dc875a217cc8916e1237e2c292e26788a09c44bae3ae8bc511d9499a",
   "viewbox": [
-    328.08,
+    360.08,
     72
   ],
   "originals_modified": false

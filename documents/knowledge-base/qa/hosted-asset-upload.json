@@ -1,6 +1,6 @@
 {
-  "uploaded_assets": 307,
-  "total_bytes": 186792982,
+  "uploaded_assets": 310,
+  "total_bytes": 186820820,
   "assets": [
     {
       "path": "/.nojekyll",
@@ -16,8 +16,8 @@
     },
     {
       "path": "/build-manifest.json",
-      "sha256": "a50bf0cbcb6d8181d439288a7232387ecaa7c88591dde690319c89f1978a1c21",
-      "size": 35469,
+      "sha256": "c179ac994cd2a0db529b130667c1bec00f29f76a8f326c2f843e24d2e5444282",
+      "size": 35859,
       "storage": "uploaded hash-verified object"
     },
     {
@@ -316,8 +316,8 @@
     },
     {
       "path": "/documents/knowledge-base/qa/hosted-asset-upload.json",
-      "sha256": "817a08139ac7d55236ce94ef58de11fa31078e821ff00c4580a5d16f12a18717",
-      "size": 70170,
+      "sha256": "55183187cad780661dc79cbd035d1f72b955d20df8e22e7fdd1a179cb7146395",
+      "size": 70070,
       "storage": "uploaded hash-verified object"
     },
     {
@@ -526,21 +526,27 @@
     },
     {
       "path": "/documents/storefront/assets/icons/options/source.json",
-      "sha256": "080c136f4e7f0871d7503555b1e02199f0b4b006580ac683e2a7bb291b34ca8d",
-      "size": 500,
-      "storage": "existing verified object"
+      "sha256": "3a48ad2cbab2a344cd0d365c8c77564047f6600bba57802e04f55bc5e0b5daf8",
+      "size": 698,
+      "storage": "uploaded hash-verified object"
     },
     {
       "path": "/documents/storefront/assets/icons/semsaam-logo-ar-source.json",
-      "sha256": "48e4817669c42f27e1c25bcc481440d6744e2289eebf94019d8b2eb39ae92488",
-      "size": 497,
+      "sha256": "a4929d087c47bbc5d515d50cba049186f251dd343d11305cf607e5fb68d6460d",
+      "size": 683,
+      "storage": "uploaded hash-verified object"
+    },
+    {
+      "path": "/documents/storefront/assets/icons/semsaam-logo-ar-sword.svg",
+      "sha256": "adcfad3044de811e5c3725a1d8f608d4ede705ed31b432d667c6e6194841df50",
+      "size": 12179,
       "storage": "existing verified object"
     },
     {
       "path": "/documents/storefront/assets/icons/semsaam-logo-ar.svg",
-      "sha256": "adcfad3044de811e5c3725a1d8f608d4ede705ed31b432d667c6e6194841df50",
-      "size": 12179,
-      "storage": "existing verified object"
+      "sha256": "f49d94c3a712c8a979f7b9edea94b568c2f59f82bb68dc0ef18712d05365f3e1",
+      "size": 12363,
+      "storage": "uploaded hash-verified object"
     },
     {
       "path": "/documents/storefront/assets/images/hero-mobile-product-first.webp",
@@ -556,8 +562,8 @@
     },
     {
       "path": "/documents/website-publication.json",
-      "sha256": "6b275aa00e8ac7d4a03b2d9497de1db83ff2581ef39aa1ee1f89a4b777196059",
-      "size": 1338,
+      "sha256": "73a7a61c3ae320be341d96a778403ad360b0f4a1b574e96f8855383d64fa5f3b",
+      "size": 1355,
       "storage": "uploaded hash-verified object"
     },
     {
@@ -1162,8 +1168,8 @@
     },
     {
       "path": "/index.html",
-      "sha256": "ae9d8c8ac02a9237dfe4246201207043964b8dd79d76786c8a335c136c346b52",
-      "size": 268056,
+      "sha256": "1c9d83b992b5892a18e5166155f4057710adc0a3093238ccb9437e4eb28d2894",
+      "size": 269403,
       "storage": "uploaded hash-verified object"
     },
     {
@@ -1204,26 +1210,26 @@
     },
     {
       "path": "/website/ar/favicon-options.html",
-      "sha256": "406dc571375975daff5e3a634ab12f52683054f6b96677550eefaa16a7724c5a",
-      "size": 4171,
+      "sha256": "cad2987fc65486f627e7bab6a1d94ad0d174dfbd061d84de64de833f8c8ddbca",
+      "size": 4184,
       "storage": "uploaded hash-verified object"
     },
     {
       "path": "/website/ar/index.html",
-      "sha256": "fa81a2d388bf18d80d11b8f8741990dfdb3b78c1d0ca62da39a6b0918e0bfd4e",
-      "size": 19504,
+      "sha256": "0028f3417bf5af155af18141495e471ff814d1443813a3adfdf162f595520ac3",
+      "size": 19551,
       "storage": "uploaded hash-verified object"
     },
     {
       "path": "/website/ar/product-details.html",
-      "sha256": "5fae6e843010370b2537418dc8a7d357dd25cf146cd608b8412722c6a4e73dee",
-      "size": 7955,
+      "sha256": "90ddbacbf3ebff1502dce18b8f611329f96a01dc29b674e48b5214c796025584",
+      "size": 8002,
       "storage": "uploaded hash-verified object"
     },
     {
       "path": "/website/ar/product-list.html",
-      "sha256": "5c064e6461a662d68aff508e39874b68901fdc07bdddaadc1dc6f98f40db619c",
-      "size": 9687,
+      "sha256": "b988e4fdd43fa776aaf438a10cd502cb19a0fa70fae1e9b6d83455787482a8da",
+      "size": 9734,
       "storage": "uploaded hash-verified object"
     },
     {
@@ -1288,8 +1294,8 @@
     },
     {
       "path": "/website/assets/icons/options/source.json",
-      "sha256": "080c136f4e7f0871d7503555b1e02199f0b4b006580ac683e2a7bb291b34ca8d",
-      "size": 500,
+      "sha256": "3a48ad2cbab2a344cd0d365c8c77564047f6600bba57802e04f55bc5e0b5daf8",
+      "size": 698,
       "storage": "existing verified object"
     },
     {
@@ -1300,14 +1306,26 @@
     },
     {
       "path": "/website/assets/icons/semsaam-logo-ar-source.json",
+      "sha256": "a4929d087c47bbc5d515d50cba049186f251dd343d11305cf607e5fb68d6460d",
+      "size": 683,
+      "storage": "existing verified object"
+    },
+    {
+      "path": "/website/assets/icons/semsaam-logo-ar-sword-source.json",
       "sha256": "48e4817669c42f27e1c25bcc481440d6744e2289eebf94019d8b2eb39ae92488",
       "size": 497,
       "storage": "existing verified object"
     },
     {
-      "path": "/website/assets/icons/semsaam-logo-ar.svg",
+      "path": "/website/assets/icons/semsaam-logo-ar-sword.svg",
       "sha256": "adcfad3044de811e5c3725a1d8f608d4ede705ed31b432d667c6e6194841df50",
       "size": 12179,
+      "storage": "existing verified object"
+    },
+    {
+      "path": "/website/assets/icons/semsaam-logo-ar.svg",
+      "sha256": "f49d94c3a712c8a979f7b9edea94b568c2f59f82bb68dc0ef18712d05365f3e1",
+      "size": 12363,
       "storage": "existing verified object"
     },
     {
@@ -1722,7 +1740,7 @@
       "path": "/website/assets/js/home-ar.js",
       "sha256": "5c7e82ab47bc41db3bd00759570793cc6d184eb2ff531e437f3ddff55ee2f21e",
       "size": 8090,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/website/assets/js/main.js",
@@ -1822,20 +1840,20 @@
     },
     {
       "path": "/website/index.html",
-      "sha256": "9c1aec9783a0f32c7e81aade8de7dcb500b88e2d4bf57abbf16b9c3d6c692b58",
-      "size": 34029,
+      "sha256": "6623b3026b4eabc9ff10629552b778d5a2213a88203701e2e03a9de5552579dd",
+      "size": 34042,
       "storage": "uploaded hash-verified object"
     },
     {
       "path": "/website/product-details.html",
-      "sha256": "6fa1b0578352ba36ab373f3fea47379f4510cc8f43d7ed3fad56aff530a5d70e",
-      "size": 17097,
+      "sha256": "8999f0450260d74ffb654118df88732112cc479cc9bfb0a3cd57ee213d0c2c7e",
+      "size": 17110,
       "storage": "uploaded hash-verified object"
     },
     {
       "path": "/website/product-list.html",
-      "sha256": "4be29ff899fee08ee8ae7b10730498f16bf448b6cfcde13858ba95aa667762e7",
-      "size": 15655,
+      "sha256": "9abe782bd1bdac9d3469191aab3cb4428944073e74e8be0271b09a8973d40375",
+      "size": 15668,
       "storage": "uploaded hash-verified object"
     },
     {

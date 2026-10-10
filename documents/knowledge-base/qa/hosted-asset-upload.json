@@ -1,12 +1,12 @@
 {
   "uploaded_assets": 278,
-  "total_bytes": 181383623,
+  "total_bytes": 181413532,
   "assets": [
     {
       "path": "/.nojekyll",
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "size": 0,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/app.js",
@@ -16,7 +16,7 @@
     },
     {
       "path": "/build-manifest.json",
-      "sha256": "8a01e73d09b4c51aa025718659bb5584c0a13ec58003a37b1e96e765d5266e2e",
+      "sha256": "c8037037e57cc14a839be9a117a7be52926737bb0fdd28a806be941b6196709e",
       "size": 31448,
       "storage": "uploaded hash-verified object"
     },
@@ -34,9 +34,9 @@
     },
     {
       "path": "/data/deskmat-market-2026-10-09.json",
-      "sha256": "664a9554a7753010845d1f118598fb7d4895c12d8de82075f3fae1c3a3fc0e68",
-      "size": 7888,
-      "storage": "existing verified object"
+      "sha256": "6b1a93175e83350daba05bcc3a86d2b7cebdec543f9fee8ce0c5b01027269183",
+      "size": 8411,
+      "storage": "uploaded hash-verified object"
     },
     {
       "path": "/data/deskmat-market-2026-10-09.md",
@@ -142,8 +142,8 @@
     },
     {
       "path": "/documents/knowledge-base/deskmat-market-2026-10-09.json",
-      "sha256": "664a9554a7753010845d1f118598fb7d4895c12d8de82075f3fae1c3a3fc0e68",
-      "size": 7888,
+      "sha256": "6b1a93175e83350daba05bcc3a86d2b7cebdec543f9fee8ce0c5b01027269183",
+      "size": 8411,
       "storage": "existing verified object"
     },
     {
@@ -210,25 +210,25 @@
       "path": "/documents/knowledge-base/qa/deskmat-2026-10-09/market-desktop-top.png",
       "sha256": "fdf7c06d89603a103038fd3d5e1073b9adf65873441291d8165318b050f1064f",
       "size": 160711,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/documents/knowledge-base/qa/deskmat-2026-10-09/pricing-mobile-top.png",
       "sha256": "19c17a76dc0545d1a8743b6981f0c21def5514a27c7fda476fe306343d18659e",
       "size": 51951,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/documents/knowledge-base/qa/deskmat-2026-10-09/validation.json",
       "sha256": "fff9b4e355f94e9d7e861ff289a02e1e35a980908f390fe2486bba6aca285db6",
       "size": 471,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/documents/knowledge-base/qa/elevenlabs-material-video.json",
       "sha256": "beb8ba8600e48e76be9c11ba46327df146526c2bee8c023cf826a8a3d7d5fb6e",
       "size": 1054,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/documents/knowledge-base/qa/home-ar-2026-10-08/after-desktop.png",
@@ -240,13 +240,13 @@
       "path": "/documents/knowledge-base/qa/home-ar-2026-10-08/after-mobile-addons.png",
       "sha256": "0f12387c1ecf00578299345ec840e96370908ba6bfcefb3effa31c5ef86aface",
       "size": 32120,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/documents/knowledge-base/qa/home-ar-2026-10-08/after-mobile-menu.png",
       "sha256": "5b958a2860b9f0b4ee22a1f15a632915b32005a0f703826d5681e6930755a61d",
       "size": 35029,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/documents/knowledge-base/qa/home-ar-2026-10-08/after-mobile.png",
@@ -258,7 +258,7 @@
       "path": "/documents/knowledge-base/qa/home-ar-2026-10-08/after-search-empty.png",
       "sha256": "90a9fd4e8c179f4b93e9a47c06d3029f40819c5ba971f3e64d43fb002cacc714",
       "size": 16554,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/documents/knowledge-base/qa/home-ar-2026-10-08/before-desktop.png",
@@ -270,7 +270,7 @@
       "path": "/documents/knowledge-base/qa/home-ar-2026-10-08/before-mobile-content.png",
       "sha256": "ff88b5df422c4ae33717cf3a59d5e7492d44ee1218abdd353022e6eef5be0e66",
       "size": 39835,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/documents/knowledge-base/qa/home-ar-2026-10-08/before-mobile.png",
@@ -282,97 +282,97 @@
       "path": "/documents/knowledge-base/qa/home-ar-2026-10-08/responsive-metrics.json",
       "sha256": "215d5f0841c5fa0ce11c1475c63b17fd474648dda98b10f8d1b32d1f75b0f9df",
       "size": 1991,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/documents/knowledge-base/qa/home-ar-followup-2026-10-08/details-mobile-after.png",
       "sha256": "7620fece6f2f88efd6ff3ec9c3d59c216caaac6ccddf1a31f40abf238c2864b4",
       "size": 29783,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/documents/knowledge-base/qa/home-ar-followup-2026-10-08/favicon-options.png",
       "sha256": "5cfebc49664ca1213d139ebe8c732a98da562ca545600b5994fed4f5dcc157e5",
       "size": 62862,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/documents/knowledge-base/qa/home-ar-followup-2026-10-08/materials-before.png",
       "sha256": "4b68ea7220e01bdbe0aefad34da825ceacc6e918961671e6e94b93d962beb32d",
       "size": 117068,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/documents/knowledge-base/qa/home-ar-followup-2026-10-08/materials-desktop-after.png",
       "sha256": "6a8a1e4b67c1539617c075726cd22df04032df7c0219755d7829c1a986f2483b",
       "size": 92374,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/documents/knowledge-base/qa/home-ar-followup-2026-10-08/materials-mobile-after.png",
       "sha256": "f98f3c03a177235336c66e088050269862ab7c2473aac36a31ce0c94ab920a07",
       "size": 32420,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/documents/knowledge-base/qa/hosted-asset-upload.json",
-      "sha256": "30239b27f0747da5d2bc6ac7aee9f6c3475be32cdf192a84a6007aa1713e4f2e",
-      "size": 38368,
+      "sha256": "f032a44e06c20642cdf3d1e0dbe840cd9eeb3e218165d524c8037ee09e50748c",
+      "size": 63046,
       "storage": "uploaded hash-verified object"
     },
     {
       "path": "/documents/knowledge-base/qa/knowledge-base-desktop.png",
       "sha256": "f49e68ca9331ab68e3bed7510e65bf33b1a1edfac55a7de8ad053a920a7e17d0",
       "size": 127367,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/documents/knowledge-base/qa/knowledge-base-mobile.png",
       "sha256": "ac633d1f7469f6b5ebc4e8297fcbfd58b04e0b5906a39a6b98905dbe7bea3636",
       "size": 57833,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/documents/knowledge-base/qa/material-video-2026-10-09/contact-sheet.jpg",
       "sha256": "029146b1d3e14267338b2927491783aa3e00f7edac817c136f5525a87e59501e",
       "size": 102308,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/documents/knowledge-base/qa/material-video-2026-10-09/desktop.jpg",
       "sha256": "51de3fec814f6895f06bf142bc4f459f846b60299bec2047f1d4695bb878b903",
       "size": 98081,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/documents/knowledge-base/qa/material-video-2026-10-09/mobile-video.jpg",
       "sha256": "3e6547c53a31cf88acce80273cb0ae395e2decbe0383d398baca8fa9b84ca861",
       "size": 33332,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/documents/knowledge-base/qa/private-access-validation.json",
       "sha256": "1e8f8733167026eaed6c0f2ed8214f1c3f798aaa70e09f737f877a92d427df80",
       "size": 1558,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/documents/knowledge-base/qa/private-projects-2026-10-09.json",
       "sha256": "a409d0a9e0420ae0b132907949a1c60451303fa4e272ddd42e0db93d982c9577",
       "size": 5089,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/documents/knowledge-base/qa/public-noindex-validation.json",
       "sha256": "d564b470eb914dbe367339eb016ae27c6c649dfec2961d1c40c50e2ce58e9dc3",
       "size": 7596,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/documents/knowledge-base/qa/site-validation.json",
       "sha256": "7466ae718c678358b80f3628e98c64ee6b5ed434ac7432f37ac3db06d3dd57a9",
       "size": 1142,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/documents/recovered/brand/Semsaam Brand Palette.pdf",
@@ -390,7 +390,7 @@
       "path": "/documents/recovered/documents/EXPORT.IMPORT.pdf",
       "sha256": "9b9ed4a6bad53a0fbbc4bf824fe68a0489e8ff1e7e17a73cf1f8812bd49f3b23",
       "size": 44411387,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/documents/recovered/documents/Gaming Desk Mat Factory Specification - Saudi Arabia - Version 2.pdf",
@@ -460,8 +460,8 @@
     },
     {
       "path": "/documents/website-publication.json",
-      "sha256": "948a4443eeb0d410948cda5632935c355fd884fb290fff7e7f337bcfca469b0b",
-      "size": 1227,
+      "sha256": "7610ca9516b3e0d1bf543c337bf6d81d792c10e804be311780639157fea87db4",
+      "size": 1254,
       "storage": "uploaded hash-verified object"
     },
     {
@@ -1066,8 +1066,8 @@
     },
     {
       "path": "/index.html",
-      "sha256": "c22d990dd2f293e3680e86140bd0e652ecb24c4eec07725df42e3d7f68b11d8f",
-      "size": 245658,
+      "sha256": "97c718d0192ae7c128f35b0f12c9998a391d5a9ba10751231e4ec371373cd1eb",
+      "size": 249607,
       "storage": "uploaded hash-verified object"
     },
     {
@@ -1078,9 +1078,9 @@
     },
     {
       "path": "/pricing.js",
-      "sha256": "07b1fc232b8b819ba672269c8e002d7045e88c4d846cec7d37042919e03cf768",
-      "size": 3734,
-      "storage": "existing verified object"
+      "sha256": "c2965ee5558df1a80d58dc7675896e34ee1d22ccc7a543a69aa1b23d53826e45",
+      "size": 3943,
+      "storage": "uploaded hash-verified object"
     },
     {
       "path": "/robots.txt",
@@ -1098,13 +1098,13 @@
       "path": "/team.css",
       "sha256": "d20f2be945e28543bdd17d708ec5a8a4effe198ef7eed9663daf064b25a2da77",
       "size": 2505,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/team.js",
       "sha256": "b46e1fd60d26c337c275613e6ed3fca1bf23f7fce6304db54d634809f150936b",
       "size": 297,
-      "storage": "uploaded hash-verified object"
+      "storage": "existing verified object"
     },
     {
       "path": "/website/ar/favicon-options.html",
@@ -1126,7 +1126,7 @@
     },
     {
       "path": "/website/ar/product-list.html",
-      "sha256": "643f2398f04fd5d461b95dd7e1cfb6d37e71e40c18a1689af3036dfca0e3dbe5",
+      "sha256": "155e9c2889d1b390fe012e77ffa7334854bda632279e8a4f891504866bda62bc",
       "size": 14903,
       "storage": "uploaded hash-verified object"
     },

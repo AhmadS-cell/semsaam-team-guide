@@ -41,7 +41,10 @@
   };
   const updateMotion = () => {
     motionButton.setAttribute('aria-pressed', String(motion));
-    motionButton.textContent = motion ? 'Ⅱ إيقاف الحركة' : '▷ تشغيل الحركة';
+    const label = motion ? 'إيقاف الحركة' : 'تشغيل الحركة';
+    motionButton.setAttribute('aria-label', label);
+    motionButton.querySelector('[data-motion-icon]').textContent = motion ? 'Ⅱ' : '▷';
+    motionButton.querySelector('.motion-label').textContent = label;
     syncVideo();
   };
   const show = (next) => {

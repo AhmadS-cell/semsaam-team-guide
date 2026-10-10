@@ -1,11 +1,11 @@
 {
   "project_id": "appgprj_6ac78d15dbbc81919ec3b0e642cc80f0",
-  "version_id": "appgprj_6ac78d15dbbc81919ec3b0e642cc80f0~appgver_9e1c6c58cd3c8191968bfea88401a47b",
-  "version_number": 11,
-  "deployment_id": "appgdep_6ac8b72edbac81919b3cc562a3aab6a8",
+  "version_id": "appgprj_6ac78d15dbbc81919ec3b0e642cc80f0~appgver_b4c5f3097ac0819189d1e6a834facff0",
+  "version_number": 12,
+  "deployment_id": "appgdep_6ac8d79c60ac819188077a2611a5ca9b",
   "url": "https://semsaam-knowledge-base.ahmadsabbah81.chatgpt.site",
   "status": "succeeded",
-  "commit_sha": "2f9a23cd6e5c8d89399382b2ebf72d63f6d787b3",
+  "commit_sha": "9325a075a9afeffc0650e697a13b38a979ca53bf",
   "audience": "custom",
   "allowed_viewers": "owner only",
   "external_visitor_count": 0,
@@ -16,12 +16,14 @@
   "asset_storage": "private R2 served through authenticated Sites dispatch and noindex Worker",
   "uploaded_assets": 278,
   "temporary_upload_secret_removed": true,
-  "env_set_revision": 16,
-  "change": "Publish the complete navigable Team Guide on the existing owner-private Site; private GitHub stores source and generated files",
+  "env_set_revision": 18,
+  "change": "Use approved Arabic brand name صمصام across Team Guide, website previews and editable documentation",
   "sections": 14,
   "full_documents": 15,
   "access_verification": "knowledge-base/qa/private-team-guide-live-2026-10-09.json",
   "authenticated_assets_verified": 278,
   "anonymous_checks_verified": 9,
-  "live_browser_navigation_verified": true
+  "live_browser_navigation_verified": true,
+  "approved_arabic_name": "صمصام",
+  "latest_change_verification": "knowledge-base/qa/private-brand-spelling-2026-10-09.json"
 }

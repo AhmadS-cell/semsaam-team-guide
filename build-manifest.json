@@ -215,7 +215,7 @@
     "gallery/product-desk-mat-standard.webp": "25453528b7f2a3ecc532748da1ff0d741d08235a7201c5661fad15c7970345b0",
     "gallery/product-pro-control.jpg": "24331119ecf0c0f4b87129be1d2fbf9798b99ee40129da3fbf8b82406112aae9",
     "gallery/product-pro-control.webp": "eef3112dfe194f7fd2ae39959cfbb9c4fb119eece16f3191531dbf45b0df747e",
-    "index.html": "f1a49faed5428d4440d47bc1461db1720f9fb433b24de2f3f1655dda4b8ab731",
+    "index.html": "571b7d3feee133071bb6315da7646a8ee0bb91989d971505b9ddc13196a4c894",
     "pricing.css": "ebf65adb05e0d1ae1f5f76843cd442ca5908706cd419d0bdc19cd58120b1941c",
     "pricing.js": "c2965ee5558df1a80d58dc7675896e34ee1d22ccc7a543a69aa1b23d53826e45",
     "robots.txt": "1cbdbc6504be7abe1267d01d7f565bfcfe5851ba3f6a3754d1d61c8f8a2c6aa3",
@@ -330,6 +330,17 @@
     "website/index.html": "180c927a35050720b6f2ac3375f2bea87ca0d39f3f88cbde84e957fa1cb635c0",
     "website/product-details.html": "ec6b38a1c6ac0ed2a4d247a308dd7a54af7ce10d617c40f56be9ca5795c5d034",
     "website/product-list.html": "fd8505ae793961e6895ea85050652e6423804ff4529033827f1f22c5769f4538",
-    "website/salla-home-mapping.json": "b6a8d5dfd841d2da8c7a7133a6566b100237d7cb39ae39548c4ed74c1ab9e633"
+    "website/salla-home-mapping.json": "b6a8d5dfd841d2da8c7a7133a6566b100237d7cb39ae39548c4ed74c1ab9e633",
+    "designs/index.html": "fda397614f0fcc82c7ade86116ed44a3a41f9fb363e6c5698baa687a041642c8",
+    "designs/references.html": "6d149b492549295a50fe98c245c64048d04dc371e2a92e787e5b49746b2ad37e",
+    "designs/production.html": "4d8c8ccec1e5d1ffd29df01febf86270f650d974c020a4a324c39698c0ab35ad",
+    "designs/library.css": "3e47390e58ee3783c47805589bd6ac29ac4fcd7df43c6b68bc796cfca0c04be3",
+    "designs/library.js": "09a49e894c5de1a7c52ca7876eeb5e45f112fb3b28acf508c0b92a4ebdf5ee35"
+  },
+  "design_library": {
+    "updated_on": "2026-11-12",
+    "designs": 6,
+    "references": 5,
+    "ideas": 3
   }
 }
